@@ -1,0 +1,26 @@
+# Entity Map
+
+- Orbs -> positioned as -> decentralized Layer-3 / execution layer for DeFi
+- ORBS token -> used for -> fee settlement
+- ORBS token -> used for -> staking
+- ORBS token -> used for -> electing Guardians
+- Delegators -> delegate stake to -> Guardians
+- Guardians -> secure / operate -> Orbs network
+- Orbs -> powers -> dTWAP
+- Orbs -> powers -> dLIMIT
+- Orbs -> powers -> dSLTP
+- Orbs -> powers -> Liquidity Hub
+- Orbs -> powers -> Perpetual Hub
+- Orbs -> powers -> Orbs Agentic
+- Orbs -> provides -> Orbs VM
+- Orbs -> provides -> Orbs Lambda
+- dLIMIT -> is a special case of -> dTWAP
+- Liquidity Hub -> improves -> DEX liquidity access
+- Perpetual Hub -> supports -> intent-based perpetual futures
+- Orbs Agentic -> enables -> autonomous DeFi agents
+- Daniel Peled -> co-founded -> Orbs
+- Netta Korin -> co-founded -> Orbs
+- Tal Kol -> co-founded -> Orbs
+- Uriel Peled -> co-founded -> Orbs
+- Nadav Shemesh -> became CEO of -> Orbs (2020-05)
+- Netta Korin -> linked to -> Hexa Foundation
