@@ -2,54 +2,54 @@
 
 ## General Questions
 
-### Q: Orbs는 무엇인가?
-A: 현재 공식 포지셔닝 기준으로 Orbs는 고급 온체인 거래를 위한 decentralized Layer-3 / execution layer입니다. 핵심 메시지는 CeFi-level execution을 DeFi로 가져오는 것입니다.
+### Q: What is Orbs?
+A: Based on current official positioning, Orbs is a decentralized Layer-3 and execution layer for advanced on-chain trading. Its core message is bringing CeFi-level execution to DeFi.
 
-### Q: Orbs는 L1인가?
-A: 현재 공식 자료 기준으로는 범용 L1이라기보다 DeFi 프로토콜을 위한 supplementary execution layer / L3로 설명하는 것이 더 정확합니다.
+### Q: Is Orbs a Layer-1?
+A: Based on current official materials, it is more accurate to describe Orbs as a supplementary execution layer or Layer-3 for DeFi protocols than as a general-purpose Layer-1.
 
-### Q: Orbs의 핵심 제품은 무엇인가?
-A: 현재 공개 자료 기준 핵심 제품군은 dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, Orbs Agentic, 그리고 Orbs VM / Lambda execution services입니다.
+### Q: What are Orbs' main products?
+A: Current public materials point to dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, Orbs Agentic, and Orbs VM or Lambda execution services as the main product set.
 
 ## Technical Questions
 
-### Q: Orbs의 PoS는 어떻게 작동하는가?
-A: ORBS 토큰 홀더는 Delegator로서 stake를 위임하고, Guardians를 선출하며, Guardians는 네트워크 보안과 운영을 담당합니다. 정확한 메커니즘은 PoS V1/V2/V3에 따라 차이가 있으므로 버전 구분이 필요합니다.
+### Q: How does Orbs PoS work?
+A: ORBS token holders can participate as Delegators by staking and delegating to Guardians, while Guardians are responsible for network operation and security. The exact mechanics differ across PoS versions, so version-specific context matters.
 
-### Q: Guardians는 무엇인가?
-A: Guardians는 Orbs의 validator 역할을 수행하는 참여자 집합으로 이해할 수 있습니다. 공개 자료에서는 Delegators가 Guardians에게 stake/voting weight를 위임하는 구조가 반복적으로 언급됩니다.
+### Q: What are Guardians?
+A: Guardians are the validator-role participants in the Orbs network. Public materials repeatedly describe a structure in which Delegators assign stake or voting weight to Guardians.
 
-### Q: ORBS 토큰의 역할은 무엇인가?
-A: 공개 자료 기준 ORBS는 실행/인프라 관련 fee settlement, staking, Guardians 선출, PoS 참여자 보상에 사용됩니다.
+### Q: What is the role of the ORBS token?
+A: Based on public materials, ORBS is used for execution or infrastructure-related fee settlement, staking, Guardian selection, and rewards for PoS participants.
 
-### Q: dLIMIT와 dTWAP의 관계는?
-A: 공개 FAQ 및 제품 자료 기준 dLIMIT는 dTWAP의 특정한 경우로 설명됩니다. 구체적으로는 전체 주문 크기와 개별 거래 크기가 같은 dTWAP-limit order로 볼 수 있습니다.
+### Q: What is the relationship between dLIMIT and dTWAP?
+A: Public FAQ and product materials describe dLIMIT as a specific case of dTWAP, more specifically a dTWAP limit order where the total order size and each trade slice are the same.
 
-### Q: dTWAP는 무엇인가?
-A: dTWAP는 큰 주문을 여러 번의 작은 거래로 나누어 시간에 따라 실행하는 decentralized time-weighted average price order 방식입니다.
+### Q: What is dTWAP?
+A: dTWAP is a decentralized time-weighted average price order method that breaks a large order into smaller trades executed over time.
 
-### Q: Liquidity Hub는 무엇인가?
-A: Liquidity Hub는 AMM 위에서 작동하는 decentralized optimization / aggregated liquidity layer로 설명됩니다. DEX가 외부 유동성을 더 잘 활용하게 해주는 방향의 제품입니다.
+### Q: What is Liquidity Hub?
+A: Liquidity Hub is described as a decentralized optimization and aggregated liquidity layer operating on top of AMMs, helping DEXs access external liquidity more effectively.
 
-### Q: Perpetual Hub는 무엇인가?
-A: Perpetual Hub는 intent-based perpetual futures를 위한 서비스 스위트로 설명됩니다.
+### Q: What is Perpetual Hub?
+A: Perpetual Hub is described as a service suite for intent-based perpetual futures.
 
-### Q: Orbs Agentic은 무엇인가?
-A: 공개 자료 기준 Orbs Agentic은 autonomous DeFi agents를 위한 execution layer입니다.
+### Q: What is Orbs Agentic?
+A: Based on current public materials, Orbs Agentic is an execution layer for autonomous DeFi agents.
 
 ## Governance / Ecosystem Questions
 
-### Q: Delegator와 Guardian의 인센티브는?
-A: Delegator는 staking reward 및 거버넌스/보안 참여 측면의 인센티브를 가지며, Guardian은 운영, 보안, 보상, 평판 측면의 인센티브를 가집니다.
+### Q: What incentives do Delegators and Guardians have?
+A: Delegators are incentivized by staking rewards and by participation in security and governance-related network structures. Guardians are incentivized through operation, security participation, rewards, and reputation.
 
-### Q: Orbs는 지금 어디에 집중하고 있는가?
-A: 현재는 DeFi execution infrastructure, 특히 고급 주문, 유동성 최적화, 파생상품 실행, agent execution에 집중하는 것으로 보입니다.
+### Q: What is Orbs focused on right now?
+A: It currently appears focused on DeFi execution infrastructure, especially advanced orders, liquidity optimization, derivatives execution, and agent execution.
 
-### Q: 문서에 없는 세부 정보를 사용자가 물으면 어떻게 안내해야 하나?
-A: 이 knowledge base에 없는 내용은 임의 외부 검색으로 보강하기보다, 공식 contact 및 community 채널로 안내하는 것이 안전합니다. 기본 안내 경로는 `hello@orbs.com` 과 공식 커뮤니티 링크입니다.
+### Q: How should unknown details be handled when users ask about them?
+A: If a detail is not covered in this knowledge base, it is safer to direct users to official contact and community channels rather than filling gaps through ad hoc external searching. The default contact route is `hello@orbs.com` together with official community links.
 
-### Q: 거래소 상장 현황은 어떻게 안내해야 하나?
-A: 고정 리스트를 문서화하기보다 CoinMarketCap / CoinGecko의 ORBS market page를 live reference로 안내하는 편이 적절합니다.
+### Q: How should exchange listing questions be handled?
+A: It is better to direct users to the live ORBS market pages on CoinMarketCap or CoinGecko than to maintain a fixed static list in the documentation.
 
 ## Sources
 - https://www.orbs.com/faq/

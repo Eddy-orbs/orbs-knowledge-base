@@ -1,26 +1,26 @@
 # Current Architecture
 
 ## Summary
-현재 공개 자료 기준 Orbs는 EVM 기반 L1/L2 및 다른 체인 위에서 작동하는 decentralized Layer-3 execution layer로 설명하는 것이 가장 자연스럽습니다. 핵심 메시지는 유동성을 새 체인으로 옮기지 않고도, 기존 체인/프로토콜 위에 복잡한 logic과 execution services를 얹는다는 점입니다.
+Based on current public materials, the most natural description of Orbs is as a decentralized Layer-3 execution layer operating alongside EVM-based Layer-1 and Layer-2 networks and potentially other chains. The core message is that Orbs adds complex logic and execution services on top of existing chains and protocols without forcing liquidity to migrate to a brand new chain.
 
 ## Components
 - Layer-3 execution layer
 - ORBS token incentive layer
-- PoS Guardians / Delegators
+- PoS Guardians and Delegators
 - Orbs VM
 - Orbs Lambda
-- Product protocols such as dLIMIT, dTWAP, dSLTP, Liquidity Hub, Perpetual Hub, Agentic
+- Product protocols such as dLIMIT, dTWAP, dSLTP, Liquidity Hub, Perpetual Hub, and Agentic
 
 ## Architectural Characteristics
-- Enhances existing chains rather than replacing them
-- Allows complex logic to be implemented on a decentralized stack without moving liquidity to a new chain
+- Enhances existing chains instead of replacing them
+- Allows complex logic to run on a decentralized stack without moving liquidity to a new chain
 - Uses execution services as a supplementary backend for DeFi protocols
-- Public GitHub/spec material suggests virtual chains remain an important architectural concept in the protocol / node layer
+- Public GitHub and specification materials suggest that virtual chains still matter at the protocol and node-architecture level
 
 ## Differences vs Early Architecture
 - Earlier Orbs materials emphasized hybrid blockchain architecture, PoS, and virtual-chain-based protocol design
-- Current public messaging is much more explicitly focused on L3 execution for DeFi
-- VM/Lambda and productized execution services now sit much closer to the center of the narrative
+- Current public messaging is much more explicitly focused on Layer-3 execution for DeFi
+- VM, Lambda, and productized execution services now sit much closer to the center of the public narrative
 
 ## Sources
 - https://www.orbs.com/overview/

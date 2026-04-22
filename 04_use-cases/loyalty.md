@@ -1,10 +1,10 @@
 # Loyalty / Consumer Use Cases
 
 ## Summary
-현재까지 확보한 공식 자료 기준으로 Orbs의 핵심 내러티브는 loyalty/consumer보다 DeFi execution infrastructure 쪽입니다. consumer 또는 loyalty 관련 사례는 추가 자료가 확인되면 분리 정리하는 것이 좋습니다.
+Based on the official materials collected so far, Orbs’ main current narrative is much closer to DeFi execution infrastructure than to loyalty or broader consumer use cases. If stronger loyalty or consumer references are found later, they should be documented separately.
 
 ## Current Assessment
-- No strong current-source basis yet for making loyalty a main Orbs category.
+- There is not yet a strong current-source basis for making loyalty or consumer use cases a main Orbs category
 
 ## Sources
 - https://www.orbs.com/

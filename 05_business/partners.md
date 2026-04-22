@@ -1,34 +1,34 @@
 # Partners
 
 ## Summary
-현재 확보한 자료 기준으로 Orbs의 파트너는 크게 두 범주로 나눌 수 있습니다.
-1. staking / ecosystem / infrastructure 관련 파트너
-2. product integration 관점의 DeFi / DEX 파트너
+Based on the collected material so far, Orbs partners can be divided into two broad categories:
+1. staking, ecosystem, and infrastructure-related partners
+2. product-integration-oriented DeFi and DEX partners
 
 ## Working Categories
 ### Staking / Ecosystem Partners
 - Celsius Network (historical example)
-- Staking Rewards (ecosystem / staking discovery / analytics context)
+- Staking Rewards (ecosystem, staking discovery, and analytics context)
 
 ### Product / Protocol Integrations
-- DEXs integrating dLIMIT / dTWAP
+- DEXs integrating dLIMIT and dTWAP
 - Protocols integrating Liquidity Hub
-- Derivatives-related integrations around Perpetual Hub
-- Solver-related integrations across routing / aggregation infrastructure
+- Derivatives-oriented integrations around Perpetual Hub
+- Solver-related integrations across routing and aggregation infrastructure
 - Ecosystem references around partners such as IVX and others in recent public posts
 
 ## Current Structured Inventory
-A more complete working table now exists in `partner-inventory.md`, built from the user-provided sheet snapshot plus official-public references.
+A more complete working table exists in `partner-inventory.md`, built from the user-provided sheet snapshot together with official-public references.
 
 High-level pattern:
-- dLIMIT / dTWAP integrations are the broadest and most repeated
-- Liquidity Hub is present in a narrower set of projects
-- Perp Hub is concentrated in fewer targeted partners
+- dLIMIT and dTWAP integrations are the broadest and most repeated
+- Liquidity Hub appears in a narrower set of projects
+- Perpetual Hub is concentrated in fewer targeted partners
 - Solver integrations form a separate partner cluster
 
 ## Notes
-- Partner list should later be normalized into columns such as: name / category / product / chain / status / source.
-- If the Google Sheet can later be exported as CSV, this document should be regenerated from the structured source of truth.
+- The partner list should later be normalized into fields such as name, category, product, chain, status, and source
+- If the Google Sheet can later be exported as CSV, this document should be regenerated from that structured source of truth
 
 ## Candidate Source Set
 - https://www.orbs.com/orbs-partners-with-celsius-network/

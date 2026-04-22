@@ -1,36 +1,36 @@
 # Orbs Timeline
 
 ## Summary
-현재까지 확보한 공식/공식에 준하는 자료 기준으로 보면, Orbs는 2017년에 프로젝트가 시작되었고, 2019년 3월 메인넷과 토큰 런칭을 거쳤습니다. 이후 PoS 아키텍처는 V1에서 V2, V2.5, V3로 진화했고, 최근 공식 포지셔닝은 DeFi용 Layer-3 / execution layer 쪽으로 이동해 있습니다.
+Based on the currently collected official and official-public materials, Orbs began in 2017 and launched its mainnet and token in March 2019. Its PoS architecture then evolved from V1 to V2, V2.5, and V3. In its current era, official positioning emphasizes an L3 or execution-layer role for DeFi.
 
 ## Major Milestones
-- 2017: Orbs 프로젝트 설립 시작 (공식 블로그/소개성 자료에서 반복적으로 언급)
-- 2019-03: Orbs 메인넷 및 토큰 런칭
-- 2020-08: Orbs PoS V2, "The Age of Guardians" 공식 발표
-- 2020-11: Orbs PoS V2.5 메인넷 반영
-- 2022-03-29: Orbs PoS V3, Polygon 기반 multi-chain staking 런칭
-- Current era: Orbs를 advanced on-chain trading 및 DeFi execution 중심 L3로 재포지셔닝
+- 2017: Orbs project formation begins, repeatedly referenced in official and introductory materials
+- 2019-03: Orbs mainnet and token launch
+- 2020-08: Orbs PoS V2, "The Age of Guardians," is officially announced
+- 2020-11: Orbs PoS V2.5 is rolled out to mainnet
+- 2022-03-29: Orbs PoS V3 and Polygon-based multi-chain staking launch
+- Current era: Orbs is positioned around advanced on-chain trading and DeFi execution infrastructure
 
 ## Phase Breakdown
 ### Founding / Early Stage
-- 프로젝트 설립 시점은 2017년으로 반복 언급됨
-- 초기에는 하이브리드 블록체인 구조와 PoS 기반 인프라에 초점이 있었던 것으로 보임
-- founder 상세 및 초기 법인/조직 구조는 추가 검증 필요
+- The project’s founding period is repeatedly described as beginning in 2017
+- Early materials suggest stronger emphasis on hybrid blockchain architecture and PoS-based infrastructure
+- Founder details and early legal or organizational structure still need more verification
 
 ### Launch
-- 메인넷과 토큰 런칭은 2019년 3월
-- V1 PoS는 메인넷과 함께 도입된 것으로 보임
-- 일부 기술 글은 2019년 3월 말 토큰 배포와 메인넷 가동을 함께 언급함
+- Mainnet and token launch occurred in March 2019
+- PoS V1 appears to have launched alongside the mainnet
+- Some technical materials reference late-March 2019 token distribution and mainnet activation together
 
 ### Growth
-- 2020년경 네트워크 안정성, 운영 효율성, decentralization 향상을 목표로 PoS V2/V2.5 진화
-- Guardians 개념이 이 시기에 핵심으로 부각
-- 이후 staking 구조가 Ethereum 및 Polygon을 활용하는 multi-chain 방향으로 확장
+- Around 2020, the PoS architecture evolved through V2 and V2.5 with emphasis on decentralization, operational efficiency, and network sustainability
+- The Guardian concept became a central part of the operating model during this phase
+- Staking architecture later expanded toward a multi-chain structure involving Ethereum and Polygon
 
 ### Current State
-- 현재 공식 메시지는 "Bringing CeFi-level execution to DeFi"
-- Layer-3, advanced trading, execution services, aggregated liquidity, decentralized derivatives 등의 내러티브가 강함
-- 역사적으로 범용 체인 내러티브에서 DeFi execution specialization으로 초점이 이동한 것으로 보이지만, 이 변화의 정확한 서술은 추가 문서 검증 필요
+- Current official messaging emphasizes "Bringing CeFi-level execution to DeFi"
+- Layer-3, advanced trading, execution services, aggregated liquidity, and decentralized derivatives are prominent narrative elements
+- The project appears to have shifted from a broader chain narrative toward DeFi execution specialization, though the exact description of that transition still needs further verification
 
 ## Sources
 - https://www.orbs.com/Orbs-A-Re-introduction/

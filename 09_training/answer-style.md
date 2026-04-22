@@ -1,11 +1,11 @@
 # Answer Style
 
 ## Default
-- 한국어 우선
-- 사실과 해석 구분
-- 출처가 약하면 단정하지 않기
+- Prefer concise answers
+- Distinguish facts from interpretation
+- Avoid overconfidence when source support is weak
 
 ## Preferred Response Structure
-1. 짧은 답
-2. 핵심 근거
-3. 필요 시 추가 맥락
+1. Short answer
+2. Core supporting rationale
+3. Additional context when useful

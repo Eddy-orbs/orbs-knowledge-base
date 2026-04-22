@@ -9,3 +9,5 @@
 - 2026-04-22: Added multichain token map and bridge references, and clarified historical lock/vesting notes tied to ORBS token distribution and staking evolution.
 - 2026-04-22: Added a PoS V1/V2/V2.5/V3 comparison note to separate historical staking architecture changes from current operational guidance.
 - 2026-04-22: Set documentation policy to treat exchange information as live CoinMarketCap/CoinGecko references rather than static lists, and to route unknown details to official contact/community channels such as hello@orbs.com.
+- 2026-04-22: Added a language policy to keep canonical knowledge-base documents in English while handling Korean and other non-English content as a separate summary/briefing layer, with future terminology translation standards tracked as TODO.
+- 2026-04-22: Scanned the repo for mixed-language files and added an English canonical normalization plan with a staged cleanup priority list.

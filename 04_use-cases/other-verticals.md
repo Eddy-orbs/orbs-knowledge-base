@@ -1,16 +1,16 @@
 # Other Verticals
 
 ## Summary
-현재까지 확보한 자료 기준으로 Orbs의 핵심 vertical은 사실상 DeFi에 집중되어 있습니다. 다만 execution services와 agentic layer는 더 넓은 automation / backend infrastructure narrative로 확장될 여지가 있습니다.
+Based on the material collected so far, Orbs’ core vertical is effectively DeFi. Even so, execution services and the Agentic layer may support a broader automation or backend-infrastructure narrative over time.
 
 ## Possible Broader Directions
 - Autonomous agent infrastructure in DeFi
-- General decentralized backend services through Orbs VM / Lambda
-- Additional protocol infrastructure use cases beyond spot DEX orders
+- General decentralized backend services through Orbs VM and Lambda
+- Additional protocol-infrastructure use cases beyond spot-DEX order execution
 
 ## Notes
-- 현재는 이 파일보다 DeFi / execution services 문서가 우선순위가 높습니다.
-- enterprise, loyalty, RWA는 실제 공식 자료가 충분히 확보되기 전까지 비워두는 것이 안전합니다.
+- DeFi and execution-services documents should remain the higher-priority reference set for now
+- Enterprise, loyalty, and RWA should stay minimal until stronger official source support is available
 
 ## Sources
 - https://www.orbs.com/agentic

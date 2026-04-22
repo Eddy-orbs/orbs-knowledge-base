@@ -1,22 +1,22 @@
 # Investor Questions
 
-### Q: Orbs는 어떤 프로젝트로 봐야 하나?
-A: 현재 기준으로는 범용 L1보다, DeFi execution infrastructure / Layer-3 product suite로 보는 것이 더 정확합니다.
+### Q: What kind of project is Orbs?
+A: At the current stage, it is more accurate to view Orbs as DeFi execution infrastructure or a Layer-3 product suite than as a general-purpose Layer-1.
 
-### Q: Orbs의 경쟁력은 무엇인가?
-A: 고급 주문, 유동성 최적화, perpetual infrastructure, agent execution 등 실제 프로토콜이 붙일 수 있는 execution 제품군을 보유하고 있다는 점입니다.
+### Q: What is Orbs' competitive edge?
+A: Its strength appears to be a product set that DeFi protocols can integrate directly, including advanced orders, liquidity optimization, perpetual infrastructure, and agent execution.
 
-### Q: ORBS 토큰은 어디에 쓰이나?
-A: fee settlement, staking, Guardians 선출, 보상에 사용됩니다.
+### Q: What is the ORBS token used for?
+A: It is used for fee settlement, staking, Guardian selection, and rewards.
 
-### Q: Adoption은 어떻게 측정할 수 있나?
-A: protocol integrations, execution product usage, staking participation, partner expansion이 핵심 지표가 될 가능성이 큽니다.
+### Q: How can adoption be measured?
+A: Likely indicators include protocol integrations, execution-product usage, staking participation, and partner expansion.
 
-### Q: Orbs의 현재 사업 방향은?
-A: DEX/DeFi protocol에 execution products를 통합시키는 방향의 B2B/B2B2C형 infrastructure 전략에 가깝습니다.
+### Q: What is Orbs' current business direction?
+A: It appears to follow a B2B or B2B2C infrastructure strategy centered on integrating execution products into DEX and DeFi protocols.
 
-### Q: 확인되지 않은 세부 정보는 어떻게 답변해야 하나?
-A: 문서에 없는 정보는 추측하거나 즉석 외부 검색으로 채우지 말고, 공식 contact 및 community 안내로 넘기는 것이 좋습니다. 기본 contact는 `hello@orbs.com` 입니다.
+### Q: How should unverified details be handled?
+A: If a detail is not covered in the documentation, it is better not to guess or fill the gap through immediate external searching. Direct users to official contact and community channels instead. The default contact is `hello@orbs.com`.
 
 ## Sources
 - https://www.orbs.com/

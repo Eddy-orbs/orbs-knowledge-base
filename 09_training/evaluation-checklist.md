@@ -1,34 +1,34 @@
 # Evaluation Checklist
 
 ## Core Accuracy Checks
-- 설립자 4명과 CEO 전환(Nadav Shemesh)을 구분해서 설명하는가
-- 2017 설립, 2019-03 메인넷 런칭, 2020 PoS V2/V2.5, 2022-03-29 PoS V3 흐름을 설명하는가
-- Orbs의 현재 포지셔닝을 범용 L1이 아니라 DeFi execution 중심 L3로 설명하는가
-- ORBS 토큰의 역할을 fee settlement, staking, Guardian 선출, 보상으로 설명하는가
-- Guardian과 Delegator의 차이를 설명하는가
+- Does the answer distinguish the four co-founders from the later CEO transition to Nadav Shemesh?
+- Does it explain the sequence from 2017 founding to the 2019-03 mainnet launch, 2020 PoS V2/V2.5, and 2022-03-29 PoS V3?
+- Does it describe Orbs’ current positioning as a DeFi-execution-focused Layer-3 rather than a generic Layer-1?
+- Does it explain the ORBS token as tied to fee settlement, staking, Guardian selection, and rewards?
+- Does it distinguish Guardians from Delegators?
 
 ## Technical Depth Checks
-- current execution layer narrative와 virtual chains narrative를 구분해서 설명하는가
-- Orbs VM과 Orbs Lambda 차이를 설명하는가
-- dLIMIT가 dTWAP의 특수한 경우라는 점을 설명하는가
-- Liquidity Hub, Perpetual Hub, Agentic의 역할을 혼동하지 않는가
-- public-facing 설명과 protocol-level 설명이 다를 수 있음을 인지하는가
+- Does it distinguish the current execution-layer narrative from the virtual-chains narrative?
+- Does it explain the difference between Orbs VM and Orbs Lambda?
+- Does it explain that dLIMIT is a special case of dTWAP?
+- Does it avoid confusing Liquidity Hub, Perpetual Hub, and Agentic?
+- Does it recognize that public-facing explanations and protocol-level explanations may differ?
 
 ## Business / Ecosystem Checks
-- Orbs의 사업 모델을 B2B/B2B2C형 DeFi infrastructure로 설명하는가
-- 파트너를 제품별(dLIMIT/dTWAP, Liquidity Hub, Perp Hub, Solver)로 나눌 수 있는가
-- 파트너 현황이 sheet 기반 working draft임을 인지하는가
-- staking/ecosystem partner와 product integration partner를 구분하는가
+- Does it describe Orbs’ business model as B2B or B2B2C DeFi infrastructure?
+- Can it group partners by product categories such as dLIMIT or dTWAP, Liquidity Hub, Perpetual Hub, and solver-related integrations?
+- Does it recognize that current partner status is still based on a sheet-driven working draft?
+- Does it distinguish staking or ecosystem partners from product-integration partners?
 
 ## Answer Quality Checks
-- 현재 상태와 과거 상태를 섞지 않는가
-- 확실하지 않은 founder bio나 tokenomics 수치를 단정하지 않는가
-- 질문이 역사/기술/사업 중 무엇인지 분류해서 답하는가
-- 짧은 요약 후 근거를 붙이는 구조를 유지하는가
+- Does it avoid mixing current-state and historical-state explanations?
+- Does it avoid overstating uncertain founder-bio details or tokenomics figures?
+- Does it classify the question as historical, technical, or business before answering?
+- Does it maintain a structure of short answer first, then supporting rationale?
 
 ## Failure Signs
-- Orbs를 단순히 L1이라고만 설명함
-- dLIMIT와 dTWAP를 별개 unrelated product처럼 설명함
-- Guardian과 Delegator를 혼동함
-- founder와 CEO를 섞어 말함
-- 현재 포지셔닝과 초기 architecture를 뒤섞음
+- Explains Orbs only as a Layer-1
+- Treats dLIMIT and dTWAP as fully unrelated products
+- Confuses Guardians and Delegators
+- Mixes founders and CEO roles
+- Blends current positioning with early architecture without distinction
