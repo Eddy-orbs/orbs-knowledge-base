@@ -29,6 +29,11 @@ This folder is a dedicated knowledge base for the Orbs project.
 - For details not covered in the knowledge base, direct users to official community channels and `hello@orbs.com`
 - If country-specific community information is needed, route through the official community entry points
 
+## Briefing Layer
+- Localized audience-facing briefings live under `06_qna/briefings/`
+- `en/` and `ko/` are maintained briefing layers
+- Other languages should generally be generated on demand first and promoted to maintained layers only if recurring demand appears
+
 ## Suggested Workflow
 1. Add raw source links to `07_sources/raw-links.md`
 2. Organize official sources under `07_sources/official/`

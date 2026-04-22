@@ -11,7 +11,8 @@ The canonical language of the Orbs knowledge base is English.
 
 ## Operating Model
 - Core knowledge documents should be maintained in English.
-- Korean and other non-English materials should be handled as a separate summary / briefing / delivery layer.
+- Korean should be maintained as a separate briefing / summary / delivery layer.
+- Other non-English languages should generally be handled on demand first, then promoted into maintained briefing layers only if repeated demand appears.
 - The knowledge layer and the audience-delivery layer should not be mixed unnecessarily.
 
 ## Terminology Rule

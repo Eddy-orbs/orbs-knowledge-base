@@ -1,0 +1,3 @@
+# 2-Minute Brief (EN)
+
+Orbs is a blockchain project founded in 2017 that launched its mainnet in March 2019. Today, it is better understood as DeFi execution infrastructure than as a general-purpose chain. The ORBS token is tied to fee settlement, staking, Guardian selection, and rewards, while the network operates through a PoS-based incentive structure. On the product side, the most visible pieces are dLIMIT, dTWAP, dSLTP, Liquidity Hub, Perpetual Hub, Orbs Agentic, and VM or Lambda execution services. On the partner side, dLIMIT and dTWAP-style integrations appear to be the broadest footprint.
