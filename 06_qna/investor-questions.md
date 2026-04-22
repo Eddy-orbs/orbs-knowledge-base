@@ -15,8 +15,12 @@ A: protocol integrations, execution product usage, staking participation, partne
 ### Q: Orbs의 현재 사업 방향은?
 A: DEX/DeFi protocol에 execution products를 통합시키는 방향의 B2B/B2B2C형 infrastructure 전략에 가깝습니다.
 
+### Q: 확인되지 않은 세부 정보는 어떻게 답변해야 하나?
+A: 문서에 없는 정보는 추측하거나 즉석 외부 검색으로 채우지 말고, 공식 contact 및 community 안내로 넘기는 것이 좋습니다. 기본 contact는 `hello@orbs.com` 입니다.
+
 ## Sources
 - https://www.orbs.com/
 - https://www.orbs.com/overview/
 - https://www.orbs.com/orbs-dao-the-next-step/
 - https://www.orbs.com/pos/
+- hello@orbs.com

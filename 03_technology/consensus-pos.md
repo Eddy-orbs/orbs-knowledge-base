@@ -29,6 +29,11 @@ Orbs publicly describes its consensus model as Proof-of-Stake (PoS). Public-faci
 - Which parts of PoS are on Orbs itself versus Ethereum versus Polygon?
 - How did PoS V1, V2, and V3 differ in mechanism and rationale?
 
+## Related Docs
+- `staking-mechanics.md` for the mechanism-level view
+- `pos-version-comparison.md` for V1/V2/V2.5/V3 differences
+- `../../06_qna/staking-guide.md` for the user-facing operational guide
+
 ## Sources
 - PoS page: https://www.orbs.com/pos
 - V1 PoS paper: https://www.orbs.com/white-papers/proof-of-stake-ecosystem

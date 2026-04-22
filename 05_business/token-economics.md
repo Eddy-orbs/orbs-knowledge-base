@@ -20,7 +20,8 @@
 - Exact tokenomics should be versioned, because V1/V2/V3 mechanics may differ
 
 ## Important Notes
-- Token economics should be separated into: base utility, staking incentives, and version-specific staking mechanics
+- Token economics should be separated into: base utility, staking incentives, market/supply snapshot, and version-specific staking mechanics
+- See also `token-overview.md` for supply/market framing and `exchange-listings.md` for listing references
 - Need direct tokenomics article / whitepaper extraction for more precise supply and emissions language
 
 ## Sources

@@ -12,6 +12,13 @@
 - 사실, 해석, 미확인 정보를 구분
 - 긴 원문은 `07_sources/`에, 정제된 학습용 문서는 카테고리 폴더에 저장
 - 최신 변경사항은 `08_notes/update-log.md`에 기록
+- 거래소 정보는 고정 리스트보다 `CoinMarketCap` / `CoinGecko` live reference를 우선 사용
+- 이 knowledge base에 없는 세부 정보는 임의 외부 검색으로 보강하지 않고, 공식 contact/community 채널로 안내
+
+## 응답 정책
+- 상장 거래소 문의: `CoinMarketCap` / `CoinGecko` ORBS market page로 안내
+- 문서에 없는 세부 문의: 공식 커뮤니티 및 `hello@orbs.com` 으로 안내
+- 국가별 커뮤니티 정보가 필요한 경우, 공식 커뮤니티 진입점 기준으로 연결
 
 ## 추천 작업 순서
 1. `07_sources/raw-links.md`에 원자료 링크 적재
