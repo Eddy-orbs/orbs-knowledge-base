@@ -33,3 +33,45 @@ Staking in Orbs is not just passive token deposit behavior. It is the mechanism 
 - https://orbs-doc.gitbook.io/pos
 - https://orbs-doc.gitbook.io/pos/orbs-pos-universe/becoming-the-delegator
 - https://orbs-doc.gitbook.io/pos/orbs-pos-universe/becoming-the-guardian
+
+## Current Reward Accounting Notes
+As of the user-provided 2026-04-29 update, current Orbs staking rewards should be described as follows:
+
+- Delegator reward rate: 6.67% annualized average reward rate for staked ORBS.
+- Reward accrual method: rewards accrue continuously as a contract-level / numerical reward balance, effectively every block.
+- Reward settlement method: accumulated rewards must be claimed / settled manually by the user through TETRA or another official staking interface; only after this manual action are they added to the actual staked amount.
+- Transferability: accrued-but-unclaimed rewards are not yet unlockable, withdrawable, or transferable token amounts. To move them, the user should first claim / settle rewards into the staked balance, then unlock / unstake, wait through the applicable unbonding period, and withdraw the unlocked ORBS to the wallet.
+- Guardian reward rate: Guardians receive 10% on their own staked amount and 3.33% on delegated stake delegated to them.
+
+### Claim, Unlock, and Withdrawal Sequence
+For user-facing support, avoid implying that rewards can be sent directly from the accrual state to an exchange or external wallet. The practical sequence is:
+
+1. Claim / settle accrued rewards manually in TETRA or an official staking interface.
+2. Confirm the claimed rewards have been reflected in the staked ORBS amount.
+3. Unlock / unstake the relevant amount.
+4. Wait for the applicable lockup / unbonding period.
+5. Withdraw / recover the unlocked ORBS to the wallet.
+6. Transfer to an exchange or another wallet only after the withdrawal has completed.
+
+Important clarification: do not describe reward accrual as automatic addition to the user's staked balance. The automatic part is the numerical reward accrual. The conversion of that accrued balance into actual staked ORBS requires a manual claim / settlement transaction by the user.
+
+These figures should be treated as current user-provided operational parameters and should be rechecked against official staking analytics or contracts before being used in time-sensitive financial guidance.
+
+### Live Total Staked Quantity
+For current total staked quantity answers, use the internal Orbs network-status JSON check and extract `Total Staked` from both:
+
+- `Statuses.Ethereum Contracts Health.StatusMsg`
+- `Statuses.Matic Contracts Health.StatusMsg`
+
+User-facing answers should provide the Ethereum amount, the Polygon / Matic amount, and the combined total. Do not reveal the raw JSON endpoint URL; describe it only as an internal/current Orbs network status check or cite public status/staking pages where appropriate.
+
+## Custodial Staking Option
+In addition to direct self-custody / on-chain staking, a custodial staking option is available through Korea's Bithumb exchange according to the user-provided 2026-04-29 update.
+
+- Users deposit ORBS into Bithumb and opt into the exchange staking service.
+- This route is operationally simpler than direct wallet-based staking.
+- Bithumb's exchange-side staking service is described as having no lockup period for exchange trading, allowing users to buy or sell ORBS within the exchange at any time under Bithumb's service conditions.
+- The tradeoff is a lower reward rate, generally around 2–4%, compared with direct on-chain staking.
+- Current terms should be checked directly at http://bithumb.co.kr/
+
+This should be described as custodial staking, distinct from direct on-chain staking.

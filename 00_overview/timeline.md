@@ -41,3 +41,10 @@ Based on the currently collected official and official-public materials, Orbs be
 - https://www.orbs.com/PolygonStakingDate/
 - https://www.orbs.com/
 - https://www.orbs.com/overview/
+
+## 2026 Updates
+- 2026-04-16: Orbs announces the next phase of the Orbs DAO rollout, moving protocol-level governance toward the community. The DAO scope includes protocol revenue allocation, token economics, network upgrades, validator/Guardian oversight, and ecosystem grants. The first two planned votes are expected to cover DAO structure and Season 1 tokenomics.
+- 2026-04-late: Orbzy appears as a third-party DeFi agent use case built by an independent team using Web3Agent on Orbs Protocol infrastructure. Orbs explicitly describes Orbzy as not an Orbs product, but as a third-party contribution powered by the Orbs execution layer.
+- 2026-05-01: Orbs publicly launches SPOT / Spot Advanced Swap Orders, an agent-native DeFi trading interface for AI agents to construct advanced non-custodial swap orders such as market, limit, TWAP, stop-loss, take-profit, delayed-start, and recurring/chunked execution.
+- 2026-05-04 to 2026-05-24: Orbs runs The Orbs Agentic Challenge, a two-phase trading campaign for Orbs Agentic with more than 1,500 USDC in prizes. Phase 1 is a one-trade onboarding raffle; Phase 2 combines trading-volume prizes with a lucky draw.
+- 2026-05-22 to 2026-05-24: Orbs' official X/search-index trail indicates a Japan ecosystem tour across Nagoya, Osaka, and Tokyo. Treat this as an ecosystem/community activity note unless a fuller official event page is available.

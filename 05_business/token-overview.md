@@ -32,3 +32,22 @@ ORBS has referenced token contract addresses across multiple networks and docume
 - https://status.orbs.network/supply
 - https://www.orbs.com/white-papers/orbs-token-distribution/
 - User-provided token notes (2026-04-22)
+
+## Current Staking Reward Snapshot
+User-provided snapshot as of 2026-04-29:
+
+- Delegator reward rate: 6.67% annualized average.
+- Guardian reward rate: 10% on the Guardian's own stake and 3.33% on delegated stake.
+- Rewards accrue continuously at the contract level as a numerical reward balance, but they are not automatically added to the user's actual staked ORBS amount. The user must manually claim / settle rewards in TETRA or another official staking interface before those rewards are added to the staked balance and can later be unlocked / withdrawn.
+- Unlocking / unstaking is required before the rewarded/staked amount can be moved or transferred.
+
+Because reward rates may change, this should be treated as a dated operational snapshot.
+
+## Custodial Staking Access
+User-provided note as of 2026-04-29:
+
+- Beyond personal-wallet on-chain staking, ORBS can also be staked through Bithumb's custodial staking service in Korea.
+- Users deposit ORBS into Bithumb and participate with a simple consent flow.
+- The advantage is convenience and exchange-side liquidity: no lockup period for trading inside the exchange, so users can buy or sell at any time under Bithumb's service conditions.
+- The tradeoff is a lower reward rate, generally around 2–4%, compared with direct on-chain staking.
+- Current details should be checked directly at http://bithumb.co.kr/

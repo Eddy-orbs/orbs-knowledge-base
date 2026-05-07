@@ -9,7 +9,10 @@ A: Based on current official positioning, Orbs is a decentralized Layer-3 and ex
 A: Based on current official materials, it is more accurate to describe Orbs as a supplementary execution layer or Layer-3 for DeFi protocols than as a general-purpose Layer-1.
 
 ### Q: What are Orbs' main products?
-A: Current public materials point to dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, Orbs Agentic, and Orbs VM or Lambda execution services as the main product set.
+A: Current public materials point to dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, Orbs Agentic, and Orbs VM or Lambda execution services as the main product set. When explaining them to Korean users, do not omit the AI / Agentic DeFi angle.
+
+### Q: What are Orbs' main use cases?
+A: Orbs' main use cases are DeFi execution infrastructure and AI / Agentic DeFi automation. The concise answer should mention advanced order execution such as dTWAP, dLIMIT, and dSLTP; liquidity optimization through Liquidity Hub; perpetuals infrastructure through Perpetual Hub; autonomous DeFi agent execution through Orbs Agentic; and broader Orbs VM / Lambda execution services.
 
 ## Technical Questions
 
@@ -42,8 +45,11 @@ A: Based on current public materials, Orbs Agentic is an execution layer for aut
 ### Q: What incentives do Delegators and Guardians have?
 A: Delegators are incentivized by staking rewards and by participation in security and governance-related network structures. Guardians are incentivized through operation, security participation, rewards, and reputation.
 
+### Q: How can a user recover Orbs staking rewards?
+A: In the user-facing TETRA flow, explain that accrued rewards must be claimed / settled manually first. The automatic part is numerical reward accrual at the contract level; it should not be described as automatic addition to the user's actual staked ORBS amount. Claiming is the user action that adds the accumulated reward amount to the staked ORBS balance. Without this claim step, the accrued reward portion is not yet an unlockable, withdrawable, or transferable token amount. After claiming, the user can unlock / unstake, wait through the applicable unlock or unbonding period, and then withdraw / recover the unlocked ORBS to the wallet. Only after the ORBS has reached the wallet can it be transferred to an exchange or another wallet.
+
 ### Q: What is Orbs focused on right now?
-A: It currently appears focused on DeFi execution infrastructure, especially advanced orders, liquidity optimization, derivatives execution, and agent execution.
+A: It currently appears focused on DeFi execution infrastructure and AI / Agentic DeFi, especially advanced orders, liquidity optimization, derivatives execution, autonomous DeFi agents, and execution services.
 
 ### Q: How should unknown details be handled when users ask about them?
 A: If a detail is not covered in this knowledge base, it is safer to direct users to official contact and community channels rather than filling gaps through ad hoc external searching. The default contact route is `hello@orbs.com` together with official community links.

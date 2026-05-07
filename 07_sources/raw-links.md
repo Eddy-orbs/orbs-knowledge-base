@@ -26,6 +26,11 @@
 - Orbs Agentic: https://www.orbs.com/agentic
 - Execution Services: https://www.orbs.com/execution-services/
 
+## Campaigns / Events
+- The Orbs Agentic Challenge: https://www.orbs.com/challenge/
+- The Orbs Agentic Challenge Korean page: https://www.orbs.com/ko/challenge/
+- Official X announcement for The Orbs Agentic Challenge: https://x.com/orbs_network/status/2051583930206216517
+
 ## FAQ / Help Sources
 - General FAQ: https://www.orbs.com/faq/
 - dTWAP & dLIMIT FAQ: https://www.orbs.com/dtwap-and-dlimit-faq/

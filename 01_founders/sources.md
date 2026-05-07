@@ -16,3 +16,6 @@
 - official founder/team page raw text
 - interviews focused on each founder's background and role
 - official bio pages with stable titles and chronology
+
+## Cross-Reference: Non-Founder People
+- General key-executive / team-member profiles are tracked under `01_people/`, not inside the founder source set. Ran Hammer (란 해머), Orbs Ltd. CBO / business lead, belongs to that separate category.

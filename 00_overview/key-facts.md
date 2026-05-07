@@ -25,10 +25,13 @@
 - Aggregated liquidity / liquidity optimization
 - Decentralized derivatives support
 - Execution services for DeFi protocols
+- Agent-native DeFi order construction and execution via SPOT / Spot Advanced Swap Orders
+- Agentic DeFi adoption campaigns such as The Orbs Agentic Challenge, which promotes one-trade participation through Orbs Agentic and advanced order types including TWAP, limit, and stop-loss
 
 ## Business / Ecosystem
 - Orbs appears to position itself as infrastructure for DeFi protocols and DEXs rather than as a general-purpose L1.
 - Token incentives are tied to staking, guardian/validator participation, and network security.
+- User-provided global office summary: Orbs HQ is in Tel Aviv, Israel, where key executives plus operations and development teams are based. The UK office is in London and is mainly composed of global development team members. Korea and Japan cover Asia business and community management.
 
 ## Important Partners
 - To be filled from partner sheet and official announcements.

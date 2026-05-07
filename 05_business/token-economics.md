@@ -31,3 +31,45 @@ Based on public materials, the ORBS token is used for network-fee settlement, st
 - https://www.orbs.com/rewards-distribution/
 - https://www.orbs.com/PolygonStakingFAQs/
 - https://www.orbs.com/optimizing-ethereum-gas-costs-for-orbs-delegators/
+
+## DAO / Season 1 Tokenomics
+In April 2026, Orbs announced that the first phase of Orbs DAO governance will include a Season 1 tokenomics vote. Public descriptions indicate that the community is expected to decide how net protocol revenue is allocated across categories such as token burns, staking rewards, liquidity, and reserves.
+
+This should be treated as an announced governance direction rather than finalized tokenomics until the actual proposals and vote outcomes are available.
+
+## April 2026 DAO Governance Scope
+- Protocol revenue allocation
+- Token economics
+- Network upgrades
+- Guardian/validator oversight
+- Ecosystem grants
+
+## Sources
+- https://www.orbs.com/orbs-dao-the-next-step/
+- https://chainwire.org/2026/04/16/orbs-advances-dao-rollout-to-decentralize-protocol-governance/
+- https://crypto-economy.com/orbs-launches-dao-handing-governance/
+
+## Current PoS Reward Rates
+As of the user-provided 2026-04-29 update, current Orbs PoS reward rates are:
+
+- Delegators: 6.67% annualized average reward rate on staked ORBS.
+- Guardians: 10% on the Guardian's own staked amount.
+- Guardians: 3.33% on delegated stake.
+
+Reward accrual is described as continuous contract-level accrual, effectively every block, but this is a numerical reward balance rather than automatic addition to the user's actual staked ORBS amount. The user must manually claim / settle the accrued rewards in TETRA or another official staking interface; only then are the rewards added to the staked amount. Moving or transferring the rewarded/staked amount requires this claim / settlement step first, followed by unlocking / unstaking, the applicable waiting period, and withdrawal according to the staking rules.
+
+These reward-rate figures should be dated when used and treated as current operational parameters, not immutable tokenomics.
+
+## Source Note
+- User-provided Orbs PoS reward update (2026-04-29)
+
+## Custodial Staking via Bithumb
+As of the user-provided 2026-04-29 update, ORBS holders in Korea may also access a custodial staking service through Bithumb.
+
+- Bithumb staking is custodial: users deposit ORBS on the exchange and participate through Bithumb's service flow.
+- It is simpler than direct self-custody / on-chain staking and does not require users to manage staking contracts directly.
+- It is described as having no lockup period in the exchange context, allowing immediate buying or selling inside Bithumb under the exchange's service conditions.
+- The reward rate is lower than on-chain staking, generally around 2–4% according to the user-provided note.
+- For current details, refer to Bithumb: http://bithumb.co.kr/
+
+This should be framed as a convenience/liquidity tradeoff rather than as equivalent to direct on-chain staking.

@@ -12,6 +12,14 @@
 - Orbs -> powers -> Liquidity Hub
 - Orbs -> powers -> Perpetual Hub
 - Orbs -> powers -> Orbs Agentic
+- Orbs -> launched -> SPOT / Spot Advanced Swap Orders (2026-05-01)
+- Orbs -> runs -> The Orbs Agentic Challenge (2026-05-04 to 2026-05-24)
+- The Orbs Agentic Challenge -> promotes -> Orbs Agentic / SPOT-style agent-native DeFi trading
+- The Orbs Agentic Challenge -> includes -> Phase 1 onboarding raffle and Phase 2 volume competition plus lucky draw
+- SPOT -> targets -> AI agents
+- SPOT -> supports -> gasless market swaps, limit orders, TWAP, stop-loss, take-profit, delayed-start swaps, recurring / chunked execution
+- SPOT -> uses -> non-custodial wallet approval and signing flow
+- SPOT -> extends -> Orbs Layer-3 DeFi execution narrative into agent-native trading
 - Orbs -> provides -> Orbs VM
 - Orbs -> provides -> Orbs Lambda
 - dLIMIT -> is a special case of -> dTWAP
@@ -23,4 +31,36 @@
 - Tal Kol -> co-founded -> Orbs
 - Uriel Peled -> co-founded -> Orbs
 - Nadav Shemesh -> became CEO of -> Orbs (2020-05)
+- Ran Hammer -> belongs to -> key executive / general team-member category
+- Ran Hammer -> serves as -> CBO of Orbs Ltd.
+- Ran Hammer -> oversees -> Orbs business activities
+- Ran Hammer -> is not -> Orbs founder
+- Ran Hammer -> is not -> Orbs CEO
 - Netta Korin -> linked to -> Hexa Foundation
+
+- Orbs DAO -> governs -> protocol revenue allocation
+- Orbs DAO -> governs -> token economics
+- Orbs DAO -> governs -> network upgrades
+- Orbs DAO -> governs -> Guardian / validator oversight
+- Orbs DAO -> governs -> ecosystem grants
+- Orbs DAO -> uses -> seasonal governance model
+- Season 1 tokenomics vote -> may allocate -> net protocol revenue across burns, staking rewards, liquidity, and reserves
+- Orbzy -> built by -> independent third-party team
+- Orbzy -> uses -> Web3Agent
+- Orbzy -> powered by -> Orbs Protocol infrastructure
+- Orbzy -> exposes -> dTWAP, dLIMIT, Liquidity Hub through natural-language UX
+- Orbzy -> is not -> official Orbs product
+
+- Delegator -> current reward rate -> 6.67% annualized average (user-provided, 2026-04-29)
+- Staking rewards -> accrue -> continuously at contract level / every block as a numerical reward balance
+- Accrued staking rewards -> require -> manual claim / settlement by the user before becoming part of actual staked ORBS
+- Staking rewards -> settle into -> staked amount
+- Rewarded or staked ORBS -> requires -> unlock / unstake before transfer
+- Guardian -> current reward rate on own stake -> 10% (user-provided, 2026-04-29)
+- Guardian -> current reward rate on delegated stake -> 3.33% (user-provided, 2026-04-29)
+
+- Bithumb -> provides -> custodial ORBS staking service in Korea (user-provided, 2026-04-29)
+- Bithumb custodial staking -> advantage -> simple consent flow after exchange deposit
+- Bithumb custodial staking -> advantage -> no exchange-side lockup for trading / can buy or sell inside exchange
+- Bithumb custodial staking -> tradeoff -> lower reward rate around 2–4% than direct on-chain staking
+- Custodial staking -> differs from -> self-custody on-chain staking

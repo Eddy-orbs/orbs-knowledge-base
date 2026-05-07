@@ -11,6 +11,8 @@
 - Perpetual Hub: https://www.orbs.com/perpetual-hub
 - Execution Services: https://www.orbs.com/execution-services/
 - Orbs Agentic: https://www.orbs.com/agentic
+- SPOT / Spot Advanced Swap Orders: local agent skill bundle at `~/.openclaw/workspace/skills/spot-advanced-swap-orders/SKILL.md`; public launch coverage: https://www.benzinga.com/pressreleases/26/05/52224441/orbs-launches-spot-the-first-defi-trading-interface-built-natively-for-ai-agents
+- The Orbs Agentic Challenge: May 2026 Orbs Agentic trading campaign, https://www.orbs.com/challenge/ and https://www.orbs.com/ko/challenge/
 
 ## Deep Dives / Supporting Posts
 - Introducing dLIMIT: https://www.orbs.com/Introducing-dLIMIT-for-DEXs/
@@ -24,3 +26,16 @@
 - Use-case explanations
 - FAQ preparation
 - Partner/product mapping
+- Agent-native DeFi execution explanations, especially SPOT / advanced swap-order flows
+
+## Third-Party Ecosystem / Agentic Use Cases
+- Orbzy app: https://orbzy.web3agent.fi/
+- Orbs X post introducing Orbzy beta: https://x.com/orbs_network/status/2048795601156898948
+- Orbs X post with Orbzy getting-started and supported chains: https://x.com/orbs_network/status/2048795607691673994
+- Orbs X clarification that Orbzy is independent / not an Orbs product: https://x.com/orbs_network/status/2048798278603399389
+
+## Best Use
+- Agentic DeFi examples powered by Orbs infrastructure
+- Third-party builder ecosystem references
+- Natural-language DeFi execution UX examples
+- Use caution: Orbzy is a beta third-party app, not an official Orbs product
