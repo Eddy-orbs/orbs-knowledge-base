@@ -57,13 +57,10 @@ Important clarification: do not describe reward accrual as automatic addition to
 
 These figures should be treated as current user-provided operational parameters and should be rechecked against official staking analytics or contracts before being used in time-sensitive financial guidance.
 
-### Live Total Staked Quantity
-For current total staked quantity answers, use the internal Orbs network-status JSON check and extract `Total Staked` from both:
+### Latest Recorded Total Staked Quantity
+For current or latest recorded total staked quantity answers, use the tracked staking count table in `../03_token/staking-tracked-counts.md`.
 
-- `Statuses.Ethereum Contracts Health.StatusMsg`
-- `Statuses.Matic Contracts Health.StatusMsg`
-
-User-facing answers should provide the Ethereum amount, the Polygon / Matic amount, and the combined total. Do not reveal the raw JSON endpoint URL; describe it only as an internal/current Orbs network status check or cite public status/staking pages where appropriate.
+User-facing answers should provide the snapshot date, Ethereum amount, Polygon / Matic amount, and combined total from the latest recorded Google Sheet row. Do not use the older network-status live-check snapshot rule for guide answers.
 
 ## Custodial Staking Option
 In addition to direct self-custody / on-chain staking, a custodial staking option is available through Korea's Bithumb exchange according to the user-provided 2026-04-29 update.

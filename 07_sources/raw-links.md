@@ -98,6 +98,7 @@
 - ORBS PoS Info Android: https://play.google.com/store/apps/details?id=com.orbs.info
 - ORBS PoS Info iOS: https://apps.apple.com/us/app/orbs-pos-info/id6737161868
 - Network status: https://status.orbs.network/
+- ORBS staking tracked-count Google Sheet: use the latest recorded row value for recent staking quantity answers; current recorded snapshot is 2026-05-28, Ethereum 916,576,338 ORBS, Polygon 173,817,419 ORBS, total 1,090,393,757 ORBS. Do not run a separate tracking process.
 
 ## Token Contracts / Bridge References
 - ETH: 0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa

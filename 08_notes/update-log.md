@@ -22,7 +22,7 @@
 - 2026-04-29: Clarified staking reward recovery guidance: users should claim / settle accrued rewards in TETRA or an official staking interface first, then unlock / unstake, wait through the applicable unbonding period, withdraw to their wallet, and only then transfer to an exchange or another wallet.
 - 2026-04-30: Added user-provided ORBS listing snapshot: KRW markets on Upbit, Bithumb, Coinone, and GOPAX; global listings including OKX, HTX, KuCoin, and LBank; and broad DEX availability across major EVM-chain DEXs such as SushiSwap, PancakeSwap, and QuickSwap.
 - 2026-04-30: Strengthened answer behavior for live-checkable details: when the static wiki lacks a direct value but a known verification link exists, actively open/search the live source and answer with the extracted value first; only fall back to link guidance if extraction is not possible.
-- 2026-04-30: Added staking-quantity live-check rule: use the internal Orbs network-status JSON fields for Ethereum and Matic Contracts Health, extract each `Total Staked`, calculate the combined total, and never expose the raw JSON endpoint in user-facing answers.
+- 2026-04-30: Added a staking-quantity live-check rule. This rule was later deprecated and must not be used for guide answers.
 
 - 2026-04-29: Strengthened the staking reward claim guidance to avoid a known incorrect answer pattern: reward accrual is automatic only as a numerical contract-level balance, while adding rewards to the actual staked ORBS amount requires a manual user claim / settlement action. Without that claim, the reward portion is not yet unlockable, withdrawable, or transferable.
 
@@ -55,3 +55,5 @@
 - 2026-06-03: Corrected TON relationship answer policy after guide-bot failure: Orbs' early large TON investment and TON node operation are curated knowledge facts, not uncertain claims. Updated key facts, FAQ, source notes, and entity map so the guide should not call these items unconfirmed.
 - 2026-06-03: Added repository-wide answer policy for all basic Orbs knowledge, not only TON: curated facts must not be labeled as unconfirmed / not verified / not established. Added `09_training/answer-policy.md` and updated README / FAQ wording for unknown-detail handling.
 - 2026-06-03: Added learning-recording policy: when source links are unavailable, record the knowledge directly without source-status or review-status labels.
+- 2026-06-03: Added latest recorded ORBS staking tracked-count snapshot from the Google Sheet last value: 2026-05-28 Ethereum 916,576,338 ORBS, Polygon 173,817,419 ORBS, total 1,090,393,757 ORBS. Added Friday weekly update rule and instruction not to run a separate tracking process for this value.
+- 2026-06-03: Superseded the older staking-quantity network-status live-check rule for guide answers. The guide should answer recent staking quantity from `03_token/staking-tracked-counts.md` / latest Google Sheet row, not stale network-status values.

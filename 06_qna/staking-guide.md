@@ -61,22 +61,18 @@ User-provided guidance as of 2026-05-07:
 - User-facing formatting rule: write @orbs_node_monitor_bot as plain text only; do not wrap it in backticks, code fences, bold, italics, or other Markdown formatting.
 - Source status: user-provided; no separate official public source URL recorded yet.
 
-## Live Staked Amount Answering Rule
-When asked for the current ORBS staking amount / total staked quantity:
+## Staked Amount Answering Rule
+When asked for the current or latest recorded ORBS staking amount / total staked quantity:
 
-0. First read the local live snapshot: `../07_sources/live/staking-status-snapshot.md`.
-   - If the snapshot is fresh enough for the question, answer directly from it.
-   - If the snapshot is old or missing, say a fresh Orbs network status check is needed; do not fall back to only the static "1B+ ORBS" fact.
-1. The snapshot is generated from the internal network-status JSON feed by inspecting these two fields:
-   - `Statuses.Ethereum Contracts Health.StatusMsg`
-   - `Statuses.Matic Contracts Health.StatusMsg`
-2. Extract the `Total Staked` value from each field.
+1. Read the tracked staking count table in `../03_token/staking-tracked-counts.md`.
+2. Use the `Latest Recorded Snapshot` section / latest Google Sheet row as the answer source.
 3. Answer with:
    - Ethereum staked amount
    - Polygon / Matic staked amount
    - Combined total across both networks
-4. Do not expose or publish the raw JSON endpoint URL in user-facing answers. Treat it as an internal verification source.
-5. Public-facing source wording should refer generally to the Orbs network status / staking status check, not the internal JSON URL.
+   - Snapshot date
+4. Staking quantity is updated weekly on Fridays.
+5. Do not use the older network-status live-check snapshot for guide answers.
 
 Example answer shape:
 "현재 확인 기준으로 Ethereum에 약 X ORBS, Polygon/Matic에 약 Y ORBS가 스테이킹되어 있으며, 합산 총 스테이킹 수량은 약 Z ORBS입니다."

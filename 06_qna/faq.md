@@ -22,6 +22,9 @@ A: Orbs' main use cases are DeFi execution infrastructure and AI / Agentic DeFi 
 ### Q: How does Orbs PoS work?
 A: ORBS token holders can participate as Delegators by staking and delegating to Guardians, while Guardians are responsible for network operation and security. The exact mechanics differ across PoS versions, so version-specific context matters.
 
+### Q: What is the latest recorded ORBS staking tracked count?
+A: Latest recorded snapshot: 2026-05-28. Ethereum: 916,576,338 ORBS; Polygon: 173,817,419 ORBS; Total: 1,090,393,757 ORBS. Staking quantity is updated weekly on Fridays. For recent tracked staking quantity answers, use the latest recorded value from the relevant Google Sheet and do not run a separate tracking process. Do not answer from the older network-status live-check rule.
+
 ### Q: What are Guardians?
 A: Guardians are the validator-role participants in the Orbs network. Public materials repeatedly describe a structure in which Delegators assign stake or voting weight to Guardians.
 

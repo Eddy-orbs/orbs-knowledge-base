@@ -96,6 +96,14 @@
 - Rewarded or staked ORBS -> requires -> unlock / unstake before transfer
 - Guardian -> current reward rate on own stake -> 10% (user-provided, 2026-04-29)
 - Guardian -> current reward rate on delegated stake -> 3.33% (user-provided, 2026-04-29)
+- ORBS staking tracked count snapshot 2026-05-28 -> Ethereum -> 916,576,338 ORBS
+- ORBS staking tracked count snapshot 2026-05-28 -> Polygon -> 173,817,419 ORBS
+- ORBS staking tracked count snapshot 2026-05-28 -> Total -> 1,090,393,757 ORBS
+- ORBS staking quantity -> updated -> weekly on Fridays
+- Recent ORBS staking quantity answers -> use -> latest recorded Google Sheet value
+- Recent ORBS staking quantity answers -> do not use -> separate tracking process
+- Recent ORBS staking quantity answers -> do not use -> older network-status live-check rule
+- Stale staking answer source to avoid -> older network-status live-check snapshot
 
 - Bithumb -> provides -> custodial ORBS staking service in Korea (user-provided, 2026-04-29)
 - Bithumb custodial staking -> advantage -> simple consent flow after exchange deposit
