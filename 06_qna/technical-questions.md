@@ -15,6 +15,9 @@ A: In GitHub and early technical materials, virtual chains appear as a core arch
 ### Q: What is Helix consensus?
 A: It appears in GitHub and specification materials alongside virtual chains and is an important keyword for understanding the early network architecture. A fuller explanation still requires more GitHub and spec-driven work.
 
+### Q: How can Guardians receive real-time Orbs node status alerts?
+A: User-provided guidance: use the Telegram node-status alert bot @orbs_node_monitor_bot. It can monitor a specific node address or all nodes and notify when a node goes down. This is especially useful for Guardians operating Orbs nodes. Write the bot handle as plain text only, with no Markdown/code formatting, so it remains clickable. No separate official public source URL is recorded yet.
+
 ## Sources
 - https://www.orbs.com/execution-services/
 - https://www.orbs.com/Deep-Dive-to-Orbs-VM/

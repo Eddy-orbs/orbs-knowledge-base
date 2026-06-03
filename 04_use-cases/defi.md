@@ -83,7 +83,15 @@ The Orbs Agentic Challenge is a May 2026 trading campaign that demonstrates Orbs
 - The official campaign page describes the flow as non-custodial and gasless for the agent, with trades verified by a decentralized cosigned oracle before execution.
 - It is a marketing / participation campaign, not a separate protocol primitive; describe it as evidence of Orbs' agentic DeFi go-to-market activity rather than as a standalone product.
 
+### Campaign-End and Phase 2 Payout Updates
+- The Orbs Korea campaign-end / results announcement reported 150+ participating wallets, 2,700+ trades, and more than $285K in trading volume.
+- A later Orbs Korea announcement for Phase 2 reported the final ranking / lucky-draw results and stated that prizes had already been sent to winners' wallets.
+- Phase 2 prize update: the 1st-place prize was upgraded from Mac Mini M4 to Mac Mini M5; 2nd place received 200 USDC; 3rd place received 100 USDC; and 10 lucky-draw winners received 50 USDC each.
+- Classify these as campaign progress / completion records for Orbs Agentic, not as a new protocol, tokenomics change, or separate product launch.
+
 ### Sources
 - https://www.orbs.com/challenge/
 - https://www.orbs.com/ko/challenge/
 - https://x.com/orbs_network/status/2051583930206216517
+- https://t.me/orbskrannouncement/515
+- https://t.me/orbskrannouncement/518

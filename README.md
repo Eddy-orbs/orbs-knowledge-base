@@ -26,8 +26,12 @@ This folder is a dedicated knowledge base for the Orbs project.
 
 ## Response Policy
 - For exchange listing questions, direct users to the ORBS market pages on `CoinMarketCap` and `CoinGecko`
-- For details not covered in the knowledge base, direct users to official community channels and `hello@orbs.com`
+- Curated Orbs knowledge in this store should be answered as recorded. The guide must not label stored basic facts as "unconfirmed", "not verified", "not established", or equivalent negative certainty language.
+- When recording learning material, add source links when available. If no source link is available, record the knowledge without adding any source-status or review-status label.
+- If a user asks for a source and no public URL is recorded, say that no source link is currently recorded in the knowledge store; do not downgrade the fact itself.
+- For details not covered in the knowledge base, do not say that a claim is unconfirmed. Instead say that the knowledge store does not currently contain that detail and route users to official community channels or `hello@orbs.com` when appropriate.
 - If country-specific community information is needed, route through the official community entry points
+- External research articles are secondary sources. Use and cite them only when the user explicitly asks for external research, third-party analysis, article summaries, or that specific article. Do not include external research article content or links in ordinary product, feature, staking, token, or functionality answers unless the user asks for that research context.
 
 ## Briefing Layer
 - Localized audience-facing briefings live under `06_qna/briefings/`

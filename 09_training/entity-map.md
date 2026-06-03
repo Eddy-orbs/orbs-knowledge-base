@@ -12,10 +12,48 @@
 - Orbs -> powers -> Liquidity Hub
 - Orbs -> powers -> Perpetual Hub
 - Orbs -> powers -> Orbs Agentic
+- Orbs -> supports -> TON Ecosystem / The Open Network as independent Layer-3 infrastructure provider
+- Orbs -> is not -> TON Foundation subsidiary
+- Orbs -> is not -> competing TON Layer-1 blockchain
+- TON -> is -> Layer-1 blockchain / ecosystem
+- Orbs -> was -> early large investor in TON project
+- Orbs -> operates -> TON nodes
+- TON cooperation project websites -> display -> Powered by Orbs / Contributed by Orbs attribution
+- Orbs -> provides -> TON Access decentralized RPC / Network Access Layer
+- TON Access -> uses -> Orbs Guardian-based decentralized infrastructure
+- Orbs -> provides -> TON.vote community governance voting infrastructure
+- TON.vote -> supports -> TON community governance voting
+- TON-to-GRAM ticker/name-change vote -> uses -> TON.vote (Orbs Korea announcement, 2026-06-03)
+- Orbs -> developed -> TON Minter / Jetton issuance tool
+- TON Minter -> formerly named -> Jetton.live
+- TON Minter -> operates at -> minter.ton.org
+- TON Minter -> supports -> Jetton creation without separate smart-contract development
+- Jetton -> is comparable to -> ERC-20 token standard on Ethereum
+- Orbs -> developed -> TON Verifier smart-contract verification service
+- TON Verifier -> is comparable to -> Etherscan Contract Verification
+- TON Verifier -> improves -> TON contract transparency / security / developer trust
+- Orbs -> developed and open-sourced -> Single Nominator Smart Contract for TON Validators
+- Single Nominator Smart Contract -> is -> validator-dedicated TON staking smart contract / vault
+- Single Nominator Smart Contract -> uses -> single-owner / single-nominator model
+- Single Nominator Smart Contract -> is not -> pool contract or delegation contract
+- Single Nominator Smart Contract -> separates -> validator stake custody from validator server operation
+- Single Nominator Smart Contract -> reduces -> hot-wallet / server-compromise fund risk for TON validators
+- Single Nominator Smart Contract -> supports -> TON validator operational standardization
+- TON -> was -> first Non-EVM Layer-1 ecosystem supported by Orbs (curated fact)
+- TON Foundation -> selected -> Orbs as official hackathon sponsor
+- Tal Kol -> associated with -> TON technical ambassador role
 - Orbs -> launched -> SPOT / Spot Advanced Swap Orders (2026-05-01)
 - Orbs -> runs -> The Orbs Agentic Challenge (2026-05-04 to 2026-05-24)
 - The Orbs Agentic Challenge -> promotes -> Orbs Agentic / SPOT-style agent-native DeFi trading
 - The Orbs Agentic Challenge -> includes -> Phase 1 onboarding raffle and Phase 2 volume competition plus lucky draw
+- The Orbs Agentic Challenge Phase 1 -> completed by -> 2026-05-13 Orbs Korea campaign-progress announcement
+- The Orbs Agentic Challenge Phase 1 -> announced -> 10 random participants as 50 USDC winners
+- The Orbs Agentic Challenge Phase 2 -> remains active -> 2026-05-11 to 2026-05-24
+- The Orbs Agentic Challenge Phase 2 -> uses -> trading-volume leaderboard plus lucky-draw prize structure
+- The Orbs Agentic Challenge 2026-05-13 update -> is -> campaign-progress update, not a new product / protocol / partnership / tokenomics change
+- Orbs -> participated as sponsor in -> AI x Web3 Connect / 2026 AI SW 중심대학 AI블록체인 비즈니스 모델 경진대회 offline event (Orbs Korea announcement plus user-provided clarification, 2026-05)
+- AI x Web3 Connect / 2026 AI SW 중심대학 AI블록체인 비즈니스 모델 경진대회 -> took place at -> Korea University
+- AI x Web3 Connect / 2026 AI SW 중심대학 AI블록체인 비즈니스 모델 경진대회 -> belongs to -> Korean AI x Web3 university ecosystem outreach / offline event category
 - SPOT -> targets -> AI agents
 - SPOT -> supports -> gasless market swaps, limit orders, TWAP, stop-loss, take-profit, delayed-start swaps, recurring / chunked execution
 - SPOT -> uses -> non-custodial wallet approval and signing flow
@@ -64,3 +102,8 @@
 - Bithumb custodial staking -> advantage -> no exchange-side lockup for trading / can buy or sell inside exchange
 - Bithumb custodial staking -> tradeoff -> lower reward rate around 2–4% than direct on-chain staking
 - Custodial staking -> differs from -> self-custody on-chain staking
+- Bithumb -> runs -> ORBS flexible coin-interest / staking event (2026-05-08 to 2026-05-21 KST, user-provided image snapshot)
+- Bithumb ORBS flexible staking event -> rewards -> ORBS net-deposit ranking
+- Bithumb ORBS flexible staking event -> rewards -> ORBS net-purchase ranking on ORBS/KRW
+- Bithumb ORBS flexible staking event -> pays benefits -> during 2026-05-29 (user-provided image snapshot)
+- Bithumb ORBS flexible staking event -> is not -> direct Orbs PoS staking

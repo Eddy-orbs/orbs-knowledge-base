@@ -73,3 +73,19 @@ As of the user-provided 2026-04-29 update, ORBS holders in Korea may also access
 - For current details, refer to Bithumb: http://bithumb.co.kr/
 
 This should be framed as a convenience/liquidity tradeoff rather than as equivalent to direct on-chain staking.
+
+### Bithumb ORBS Flexible Staking Event Snapshot
+As of user-provided image attachments interpreted on 2026-05-07, Bithumb is scheduled to run "코인 이자받기(스테이킹) 오브스(ORBS) 자유형 이벤트" promotions from 2026-05-08 15:00:00 to 2026-05-21 23:59:59 KST.
+
+- Event type: exchange-side flexible coin-interest / staking event for ORBS deposits.
+- Event 1 participation: agree to and maintain Bithumb's flexible coin-interest / staking service, deposit ORBS during the event period, increase ORBS net deposit, and hold ORBS until the event end time.
+- Event 2 participation: agree to and maintain Bithumb's flexible coin-interest / staking service, buy ORBS on Bithumb during the event period, increase ORBS net purchase, and hold ORBS until the event end time. Eligible pair: ORBS/KRW.
+- Reward basis: ORBS net-deposit ranking for Event 1 and ORBS net-purchase ranking for Event 2 during the event period.
+- Reward tiers: ranks 1–50 receive ORBS worth KRW 130,000; ranks 51–450 receive ORBS worth KRW 50,000; ranks 451–1,000 receive ORBS worth KRW 20,000.
+- Net deposit formula: event-period total sum of `(deposit quantity - withdrawal quantity)`.
+- Net purchase formula: event-period total sum of `(buy quantity - sell quantity)`.
+- Payout date stated in the second image: during Friday, 2026-05-29.
+- Users may participate in both Event 1 and Event 2.
+- Public notice link: not yet available; add the official Bithumb link once provided.
+
+This event should be treated as a Bithumb promotional / custodial exchange event, not as a change to Orbs protocol-level staking rewards or tokenomics.

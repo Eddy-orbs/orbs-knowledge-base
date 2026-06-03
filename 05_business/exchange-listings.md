@@ -27,6 +27,18 @@ Use this as a helpful summary, not as a replacement for live exchange-market che
 - Market-data pages are better treated as live references than as permanent static facts
 - If a user asks for the latest listing status, direct them first to the CoinMarketCap or CoinGecko market pages
 
+## NASDAQ Ticker Clarification
+User-provided guidance as of 2026-05-07:
+
+- The NASDAQ ticker `ORBS` refers to **Eightco Holdings Inc**.
+- It has no relation to the Orbs blockchain project / ORBS token.
+- When users ask whether the NASDAQ `ORBS` ticker is connected to Orbs, answer briefly with only this clarification; do not add extra supporting evidence unless an admin explicitly asks for it.
+
+## Bithumb Event Snapshot
+As of user-provided image attachments interpreted on 2026-05-07, Bithumb has ORBS flexible coin-interest / staking promotional events scheduled for 2026-05-08 15:00:00 to 2026-05-21 23:59:59 KST. Event 1 rewards users by ORBS net-deposit ranking, and Event 2 rewards users by ORBS net-purchase ranking on the ORBS/KRW pair. Both events use per-user reward tiers of ORBS worth KRW 130,000 for ranks 1–50, KRW 50,000 for ranks 51–450, and KRW 20,000 for ranks 451–1,000. The second image states that benefit payout is scheduled during Friday, 2026-05-29, and that users may participate in both Event 1 and Event 2.
+
+The official public notice link is not yet available in the knowledge base. Add it once provided and then prefer the official notice as the citation.
+
 ## Sources
 - https://coinmarketcap.com/currencies/orbs/#Markets
 - https://www.coingecko.com/en/coins/orbs

@@ -8,6 +8,7 @@
 - TETRA staking wallet tutorial: https://www.orbs.com/tetra-orbs-staking-wallet-tutorial/
 - Locking when staking ORBS: https://www.orbs.com/introducing-locking-when-staking-orbs/
 - Optimizing gas costs for delegators: https://www.orbs.com/optimizing-ethereum-gas-costs-for-orbs-delegators/
+- Guardian selection article (Orbs Korea Medium): https://orbskorea.medium.com/%EA%B0%80%EB%94%94%EC%96%B8%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-dfdf4bc05d
 
 ## Best Use
 - Delegator / Guardian roles
@@ -46,3 +47,7 @@ Use these as dated operational notes and recheck live official staking analytics
 - 2026-04-29 user update: exchange-side advantage is no lockup period for trading inside Bithumb, but reward rate is lower than on-chain staking, generally around 2–4%.
 
 Use this as a dated custodial-staking note. Current terms, reward rates, fees, eligibility, and risks should be checked directly on Bithumb.
+
+## User-Provided Ethereum / Polygon Staking Comparison
+- 2026-05-07 user update: For user-facing comparison, Ethereum and Polygon staking are mostly the same in staking method, official 14-day unlock period, and reward rate, except for the differences below.
+- 2026-05-07 user update: Differences are gas fees, Polygon bridge requirement because exchanges generally do not support direct Polygon ORBS deposits / withdrawals, Polygon automatic weekly compounding, and Ethereum manual reward settlement / compounding.

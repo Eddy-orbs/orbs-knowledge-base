@@ -6,6 +6,7 @@
 
 ## Official Overview
 - https://www.orbs.com/overview/
+- Orbs V5 / Committee Sync announcement material recorded from teacher-group source material on 2026-06-03
 
 ## Consensus / PoS
 - https://www.orbs.com/pos
@@ -30,6 +31,11 @@
 - The Orbs Agentic Challenge: https://www.orbs.com/challenge/
 - The Orbs Agentic Challenge Korean page: https://www.orbs.com/ko/challenge/
 - Official X announcement for The Orbs Agentic Challenge: https://x.com/orbs_network/status/2051583930206216517
+- Orbs Korea campaign-progress announcement for The Orbs Agentic Challenge Phase 1 completion / Phase 2 active status: https://t.me/orbskrannouncement/512
+- Orbs Korea campaign-end / results announcement for The Orbs Agentic Challenge: https://t.me/orbskrannouncement/515
+- Orbs Korea Phase 2 winner / reward-transfer announcement for The Orbs Agentic Challenge: https://t.me/orbskrannouncement/518
+- Bithumb ORBS event notice: https://feed.bithumb.com/notice/1653155
+- Orbs Korea announcement for AI x Web3 Connect / 2026 AI SW 중심대학 AI블록체인 비즈니스 모델 경진대회 offline event: https://t.me/orbskrannouncement/508
 
 ## FAQ / Help Sources
 - General FAQ: https://www.orbs.com/faq/
@@ -43,6 +49,17 @@
 
 ## Ecosystem / Partner Map
 - Ecosystem page: https://www.orbs.com/ecosystem/
+- TON Access: https://www.orbs.com/ton-access/
+- TON.vote: https://www.orbs.com/ton-vote/
+- TON Minter: https://minter.ton.org/
+- TON Minter former project name: Jetton.live
+- TON Verifier: recorded Orbs knowledge; teacher-group material dated 2026-06-03
+- Single Nominator Smart Contract for TON Validators: recorded Orbs knowledge; teacher-group material dated 2026-06-03
+- TON relationship facts: Orbs was an early large TON investor; Orbs operates TON nodes; cooperation project sites show `Powered by Orbs` / `Contributed by Orbs` footer attribution; TON Foundation selected Orbs as an official hackathon sponsor. These are curated knowledge facts; guide answers should present them directly when relevant.
+- TON.vote / TON community TON-to-GRAM vote use case: recorded Orbs knowledge; teacher-group material dated 2026-06-03
+- QuickSwap Snapshot vote, `Full Shift Of Decentralised Perpetuals to Orbs Network`: https://snapshot.box/#/s:quickvote.eth/proposal/0x2564e956ca2f1f9f0a814fe43b7ff0c5afece25dee7b0e6d91455751c2f85fc4
+- QuickSwap / Orbs perpetual DEX governance media report: https://cryptobriefing.com/quickswap-perpetuals-orbs-network-governance/
+- Orbs official X QuickSwap-related post: https://x.com/orbs_network/status/2059085302195728762
 
 ## Community / Social
 - Telegram group: https://t.me/OrbsNetwork
@@ -98,9 +115,13 @@
 ## External / Secondary Sources
 - Korean Wiki: https://wiki1.kr/index.php?title=%EC%98%A4%EB%B8%8C%EC%8A%A4
 - L3 Partners Sheet: https://docs.google.com/spreadsheets/d/1glXfZvhAttXI24_l8AgVahJhaICABdnXnqAvXDsWRNc/edit?gid=0#gid=0
+- Alea Research article, `Orbs: Agentic Execution for DeFi` (external research / secondary source; use only for explicit research-article questions): https://alearesearch.substack.com/p/orbs-agentic-execution-for-defi
+- TokenPost TOKEN WATCH article on Orbs as an on-chain trading execution layer (external research / Korean secondary source; use only for explicit research-article or media-coverage questions): https://www.tokenpost.kr/news/insights/361143
 
 ## Notes
 - Google Sheet is reportedly shared and accessible via Google Sheets API.
-- Verify whether the V3 white paper link is correct, because the path `PolygonStakingDate` looks unusual.
+- The V3 white paper path `PolygonStakingDate` is unusual but remains the recorded reference.
+- Additional source links may be added when supplied, without changing the status of already recorded knowledge.
 - GitHub should be used as a high-confidence source for repositories, technical scope, and implementation references, but not as the only source for business/history claims.
 - Market cap, FDV, volume, circulating supply, and listing data are time-sensitive and should be versioned/date-stamped when written into final docs.
+- External research articles are not official Orbs sources. They may be summarized for users asking about external research or third-party analysis, but should not be mixed into ordinary functional answers unless explicitly requested.

@@ -49,6 +49,17 @@ This document is a practical participation guide for Orbs PoS. It focuses less o
 - ORBS PoS Info mobile apps
 - ORBS Universe Analytics
 - Network Status dashboard
+- User-provided Telegram node-status alert bot: @orbs_node_monitor_bot — monitors a specific node address or all nodes and sends alerts when a node goes down. This is especially useful for Guardians operating Orbs nodes. In Telegram-facing answers, write the bot handle as plain text with no Markdown/code formatting so it remains clickable.
+
+## Node Status Alert Bot
+User-provided guidance as of 2026-05-07:
+
+- Orbs node status can be monitored through the Telegram bot @orbs_node_monitor_bot.
+- The bot can monitor a specific node address or all nodes.
+- It can notify users immediately when a node goes down.
+- This tool is especially useful for Guardians who operate Orbs nodes.
+- User-facing formatting rule: write @orbs_node_monitor_bot as plain text only; do not wrap it in backticks, code fences, bold, italics, or other Markdown formatting.
+- Source status: user-provided; no separate official public source URL recorded yet.
 
 ## Live Staked Amount Answering Rule
 When asked for the current ORBS staking amount / total staked quantity:
@@ -72,10 +83,27 @@ Example answer shape:
 
 ## Important Cautions
 - Reward rules, APR, reward split, and lockup terms may differ across PoS versions
-- Official FAQ snippets reference a 14-day locking period in the PoS V3 context, but the exact version scope should be stated carefully when answering
+- Official material referenced in this knowledge base states a 14-day unlock / unbonding period for the relevant current user-facing staking guidance.
 - Locking mechanics changed around 2020, so historical staking guidance should not be mixed with current guidance
 - Guardian credibility and operational status should be checked before staking
 - For live conditions, prioritize analytics, status, and official docs over generic market sites
+
+## Ethereum vs Polygon Staking Comparison
+User-provided guidance as of 2026-05-07:
+
+### Same / Mostly Same
+- Staking method is mostly the same across Ethereum and Polygon, except for the differences listed below.
+- Unlock / unbonding period: official material referenced in this knowledge base is 14 days.
+- Reward rate is treated as the same for user-facing comparison unless a newer official / admin-provided update says otherwise.
+
+### Differences
+- Gas fees differ by network; Polygon is generally used to reduce transaction-fee burden compared with Ethereum.
+- Exchanges generally do not support direct ORBS deposits / withdrawals on Polygon, so Polygon staking users must use a bridge when moving ORBS between Ethereum and Polygon.
+- Polygon staking has automatic weekly compounding / reward restaking.
+- Ethereum staking requires the user to manually claim / settle rewards for compounding / recovery flows.
+
+### User-Facing Short Answer
+"Ethereum and Polygon staking are mostly the same in staking method, 14-day unlock period, and reward rate. The main differences are gas fees, bridging requirements, and compounding: Polygon generally has lower fees but requires a bridge because exchanges do not directly support Polygon ORBS deposits/withdrawals, and Polygon compounds automatically weekly; Ethereum rewards must be manually settled."
 
 ## Sources
 - https://www.orbs.com/pos/
@@ -117,6 +145,15 @@ When a user asks how to recover or take back staking rewards, explain the sequen
 - Guardian reward rate on the Guardian's own stake: 10%.
 - Guardian reward rate on delegated stake: 3.33%.
 
+## Choosing a Guardian
+User-provided source as of 2026-05-07: Orbs Korea Medium, "How to Choose a Guardian" / 가디언을 선택하는 방법: https://orbskorea.medium.com/%EA%B0%80%EB%94%94%EC%96%B8%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-dfdf4bc05d
+
+Concise summary for learning / answers:
+- Delegators should choose a Guardian carefully because Guardians operate and secure the network on behalf of delegated stake.
+- Useful checks include the Guardian's reliability / operational status, reputation, communication with the community, and whether the Guardian is actively contributing to the Orbs ecosystem.
+- Users should also compare reward terms / commission or reward split where shown by the staking interface.
+- For practical user answers, point users to the Orbs Korea Medium article above and advise them to review Guardian credibility and status before delegating.
+
 ### User-Facing Explanation
 A concise explanation for users: "Current delegator staking rewards are about 6.67% annualized. Rewards accrue continuously as a contract-level reward balance, but they are not automatically added to the actual staked ORBS amount. To recover them, the user must manually claim / settle the rewards in TETRA first; that claim action adds the rewards to the staked balance. Only after that can the user unlock / unstake, wait through the applicable period, and withdraw to the wallet. Once withdrawn to the wallet, the ORBS can be sent to an exchange or another wallet. Guardians receive 10% on their own stake and 3.33% on delegated stake."
 
@@ -138,3 +175,43 @@ A concise explanation for users: "ORBS can be staked directly on-chain from a pe
 
 ### Caution
 Custodial staking means the exchange controls custody while assets are deposited. Users should check Bithumb's current terms, reward rate, eligibility, fees, and service risks before participating.
+
+## Bithumb ORBS Flexible Staking Event Snapshot
+As of user-provided image attachments interpreted on 2026-05-07, Bithumb has "코인 이자받기(스테이킹) 오브스(ORBS) 자유형 이벤트" promotions scheduled for 2026-05-08 15:00:00 to 2026-05-21 23:59:59 KST.
+
+### Event Mechanics
+- The event targets users who agree to the Bithumb flexible coin-interest / staking service and deposit ORBS.
+- Users must maintain agreement to the flexible service until reward payout.
+- Users must deposit ORBS into Bithumb during the event period, increase net deposit quantity, and hold / maintain ORBS until the event end date and time.
+- Rewards are based on event-period ORBS net-deposit ranking, not direct on-chain staking performance.
+
+### Event 2: ORBS Purchase
+- Users must agree to and maintain the flexible service until reward payout.
+- Users must buy ORBS on Bithumb during the event period, increase net purchase quantity, and hold / maintain ORBS until the event end date and time.
+- Eligible trading pair: ORBS/KRW.
+- Rewards are based on event-period ORBS net-purchase ranking, not direct on-chain staking performance.
+
+### Reward Tiers
+- Rank 1–50: ORBS worth KRW 130,000 per user.
+- Rank 51–450: ORBS worth KRW 50,000 per user.
+- Rank 451–1,000: ORBS worth KRW 20,000 per user.
+
+### Ranking / Net Deposit Rules
+- Net deposit quantity = event-period total sum of `(deposit quantity - withdrawal quantity)`.
+- Deposits are counted when Bithumb completes deposit confirmation.
+- Withdrawals are counted when the user requests withdrawal.
+- Tie-breakers: higher total ORBS net deposit at event end, then earlier first agreement date to flexible coin-interest / staking.
+
+### Ranking / Net Purchase Rules
+- Net purchase quantity = event-period total sum of `(buy quantity - sell quantity)`.
+- Trading-fee quantity is not reflected when calculating held quantity.
+- Tie-breakers: higher total ORBS net purchase at event end, then earlier first agreement date to flexible coin-interest / staking.
+
+### Payout
+- Benefit payout date stated in the image: during Friday, 2026-05-29.
+- Event 1 and Event 2 can be participated in together.
+- Event rewards are paid in ORBS according to event results.
+
+### Source Note
+- Public Bithumb notice link is not yet available in the knowledge base. Add it later once provided.
+- Until then, describe this as a user-provided Bithumb event-image snapshot, not as a verified public-link source.

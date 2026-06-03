@@ -5,6 +5,9 @@
 ### Q: What is Orbs?
 A: Based on current official positioning, Orbs is a decentralized Layer-3 and execution layer for advanced on-chain trading. Its core message is bringing CeFi-level execution to DeFi.
 
+### Q: What is in the Orbs knowledge store?
+A: 오브스에 대한 기본 정보가 기록되어 있습니다.
+
 ### Q: Is Orbs a Layer-1?
 A: Based on current official materials, it is more accurate to describe Orbs as a supplementary execution layer or Layer-3 for DeFi protocols than as a general-purpose Layer-1.
 
@@ -51,11 +54,41 @@ A: In the user-facing TETRA flow, explain that accrued rewards must be claimed /
 ### Q: What is Orbs focused on right now?
 A: It currently appears focused on DeFi execution infrastructure and AI / Agentic DeFi, especially advanced orders, liquidity optimization, derivatives execution, autonomous DeFi agents, and execution services.
 
+### Q: Besides technical cooperation, what is Orbs' relationship with TON?
+A: Orbs' relationship with TON is broader than technical cooperation. Orbs was an early large investor in TON and operates TON nodes. It is also a major independent infrastructure partner in the TON ecosystem through TON Access, TON.vote, TON Minter / Jetton issuance tooling, TON Verifier, and Single Nominator Smart Contract for TON Validators. Do not describe the early large investment or TON node operation as unconfirmed. Still avoid saying Orbs is a TON Foundation subsidiary or formal child organization.
+
+### Q: How should guide answers handle curated facts without a source link?
+A: If a fact is already recorded as curated Orbs knowledge, answer it as recorded. This applies to TON-related facts and all other basic Orbs facts in the knowledge store. If the user asks for a source and no link is recorded, say that no source link is currently recorded in the knowledge store. Do not evaluate the fact itself as unverified, unconfirmed, or not established.
+
 ### Q: How should unknown details be handled when users ask about them?
-A: If a detail is not covered in this knowledge base, it is safer to direct users to official contact and community channels rather than filling gaps through ad hoc external searching. The default contact route is `hello@orbs.com` together with official community links.
+A: If a detail is not covered in this knowledge base, do not answer with negative-certainty wording such as "unconfirmed", "not verified", or "not established". Instead say that the knowledge store does not currently contain that detail, and route users to official contact and community channels rather than filling gaps through ad hoc external searching. The default contact route is `hello@orbs.com` together with official community links.
+
+### Q: How should current news / event questions be handled?
+A: Answer only from items already added to this knowledge base. If the requested latest news or event is not present here, do not perform ad hoc external searching in the guide flow; say that the knowledge store does not currently contain that latest item and tell the user to ask an admin / official community channel for current confirmation. Do not say the event or claim is "unconfirmed" unless the knowledge store explicitly records it as false or disputed.
+
+### Q: How should external research articles be used in answers?
+A: External research articles are secondary sources, not official Orbs documentation. Use them only when the user explicitly asks for external research, third-party analysis, article summaries, or a specific research article. For ordinary questions about Orbs functionality, products, staking, token mechanics, or current operations, do not include external research article content or links unless the user asks for that research context.
+
+### Q: What external research article about Orbs Agentic is currently tracked?
+A: User-provided external research source: Alea Research, `Orbs: Agentic Execution for DeFi`, https://alearesearch.substack.com/p/orbs-agentic-execution-for-defi. Treat it as a secondary research article. If asked directly, summarize it as external analysis of Orbs' Agentic DeFi / execution-layer positioning, while clearly distinguishing it from official Orbs materials.
 
 ### Q: How should exchange listing questions be handled?
 A: It is better to direct users to the live ORBS market pages on CoinMarketCap or CoinGecko than to maintain a fixed static list in the documentation.
+
+### Q: Is the NASDAQ ORBS ticker related to the Orbs blockchain project?
+A: No. The NASDAQ `ORBS` ticker is Eightco Holdings Inc and has no relation to the Orbs blockchain project / ORBS token.
+
+### Q: How much revenue does Orbs generate, and what is the breakdown?
+A: Detailed revenue classification is not currently provided. Orbs plans to provide it later through a dashboard, but no exact schedule has been announced. For more specific details, ask an admin.
+
+### Q: What is OIP / Orbs Improvement Proposal?
+A: OIP means Orbs Improvement Proposal. For OIP questions, guide users to the official Orbs blog. The current knowledge base does not yet contain detailed OIP information.
+
+### Q: Where can users learn how to choose a Guardian?
+A: Guide them to the Orbs Korea Medium article "가디언을 선택하는 방법" and summarize that users should review Guardian reliability, reputation, community/ecosystem contribution, operational status, and reward terms before delegating. Source: https://orbskorea.medium.com/%EA%B0%80%EB%94%94%EC%96%B8%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-dfdf4bc05d
+
+### Q: How can Guardians get alerts when an Orbs node goes down?
+A: User-provided guidance: use the Telegram node-status alert bot @orbs_node_monitor_bot. It can monitor a specific node address or all nodes and notify when a node goes down. This is useful for Guardians operating Orbs nodes. Write the bot handle as plain text only, with no Markdown/code formatting, so it remains clickable.
 
 ## Sources
 - https://www.orbs.com/faq/
@@ -69,3 +102,5 @@ A: It is better to direct users to the live ORBS market pages on CoinMarketCap o
 - https://www.orbs.com/perpetual-hub/
 - https://www.orbs.com/agentic
 - hello@orbs.com
+- https://orbskorea.medium.com/%EA%B0%80%EB%94%94%EC%96%B8%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-dfdf4bc05d
+- https://alearesearch.substack.com/p/orbs-agentic-execution-for-defi
