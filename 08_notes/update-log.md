@@ -57,3 +57,4 @@
 - 2026-06-03: Added learning-recording policy: when source links are unavailable, record the knowledge directly without source-status or review-status labels.
 - 2026-06-03: Added latest recorded ORBS staking tracked-count snapshot from the Google Sheet last value: 2026-05-28 Ethereum 916,576,338 ORBS, Polygon 173,817,419 ORBS, total 1,090,393,757 ORBS. Added Friday weekly update rule and instruction not to run a separate tracking process for this value.
 - 2026-06-03: Superseded the older staking-quantity network-status live-check rule for guide answers. The guide should answer recent staking quantity from `03_token/staking-tracked-counts.md` / latest Google Sheet row, not stale network-status values.
+- 2026-06-03: Added ORBS circulating-supply answer policy: do not provide a fixed numeric current circulating-supply value; direct users to the live Orbs CoinGecko page at https://www.coingecko.com/en/coins/orbs.

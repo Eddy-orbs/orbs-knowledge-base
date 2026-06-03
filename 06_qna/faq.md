@@ -31,6 +31,9 @@ A: Guardians are the validator-role participants in the Orbs network. Public mat
 ### Q: What is the role of the ORBS token?
 A: Based on public materials, ORBS is used for execution or infrastructure-related fee settlement, staking, Guardian selection, and rewards for PoS participants.
 
+### Q: What is the current circulating supply of the ORBS token?
+A: Do not answer with a fixed numeric circulating-supply value. Circulating supply is time-sensitive, so guide users to the live Orbs page on CoinGecko: https://www.coingecko.com/en/coins/orbs
+
 ### Q: What is the relationship between dLIMIT and dTWAP?
 A: Public FAQ and product materials describe dLIMIT as a specific case of dTWAP, more specifically a dTWAP limit order where the total order size and each trade slice are the same.
 

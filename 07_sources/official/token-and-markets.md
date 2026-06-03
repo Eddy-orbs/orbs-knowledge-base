@@ -9,13 +9,10 @@
   - https://coinmarketcap.com/currencies/orbs/#Markets
   - https://www.coingecko.com/en/coins/orbs
 
-## User-Provided Snapshot (2026-04-22)
-- Market Cap: $44,257,588
-- FDV: $89,791,178
-- 24h Trading Volume: $3,513,236
-- Circulating Supply: 4,928,946,160
-- Total Supply: 10,000,000,000
-- Max Supply: 10,000,000,000
+## Current Supply Guidance
+- Market cap, FDV, volume, and circulating supply are time-sensitive.
+- Do not answer current supply questions from a fixed stored snapshot in this file.
+- Use live public references such as CoinGecko, CoinMarketCap, or the Orbs supply API listed above.
 
 ## Token Contract References
 - ETH: 0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa

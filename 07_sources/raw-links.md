@@ -80,7 +80,7 @@
 ## Token / Market Data
 - CoinMarketCap: https://coinmarketcap.com/currencies/orbs/
 - CoinMarketCap markets: https://coinmarketcap.com/currencies/orbs/#Markets
-- CoinGecko: https://www.coingecko.com/en/coins/orbs
+- CoinGecko: https://www.coingecko.com/en/coins/orbs — use this link for current ORBS circulating-supply questions; do not answer with a fixed numeric value.
 - Token circulating supply API: https://status.orbs.network/supply
 - Token distribution paper: https://www.orbs.com/white-papers/orbs-token-distribution/
 

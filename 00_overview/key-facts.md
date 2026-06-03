@@ -14,6 +14,7 @@
 ## Consensus
 - Orbs uses Proof-of-Stake (PoS).
 - Public Orbs materials describe the ORBS token as an ERC-20 token on Ethereum and state that staking infrastructure/contracts are hosted on Ethereum.
+- For the current ORBS token circulating supply, do not provide a fixed numeric value; direct users to the live Orbs page on CoinGecko: https://www.coingecko.com/en/coins/orbs
 - Public Orbs materials also indicate later multi-chain staking expansion involving Polygon.
 - Latest recorded staking tracked count snapshot: 2026-05-28 — Ethereum 916,576,338 ORBS; Polygon 173,817,419 ORBS; total 1,090,393,757 ORBS. Staking quantity is updated weekly on Fridays. For recent tracked staking quantity answers, use the latest recorded value from the relevant Google Sheet and do not run a separate tracking process.
 
