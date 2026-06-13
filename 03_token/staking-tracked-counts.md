@@ -2,10 +2,10 @@
 
 ## Latest Recorded Snapshot
 
-- Snapshot date: 2026-05-28
-- Ethereum: 916,576,338 ORBS
-- Polygon: 173,817,419 ORBS
-- Total: 1,090,393,757 ORBS
+- Snapshot date: 2026-06-11
+- Ethereum: 937,768,042 ORBS
+- Polygon: 183,204,355 ORBS
+- Total: 1,120,972,397 ORBS
 
 ## History
 
@@ -232,6 +232,8 @@
 | 2026-05-14 | 916,223,667 | 174,241,891 | 1,090,465,558 |
 | 2026-05-21 | 916,288,914 | 173,395,966 | 1,089,684,880 |
 | 2026-05-28 | 916,576,338 | 173,817,419 | 1,090,393,757 |
+| 2026-06-04 | 916,914,771 | 177,500,941 | 1,094,415,712 |
+| 2026-06-11 | 937,768,042 | 183,204,355 | 1,120,972,397 |
 
 ## Update Rule
 
@@ -240,5 +242,3 @@
 - Source export: `/home/orbsian/git/eddy-orbs/orbs-pos-staking-tracker/exports/orbs-staking-history.csv`
 - For guide answers about the recent tracked staking quantity, use the latest recorded value from the relevant Google Sheet.
 - Do not run a separate tracking process for this value.
-- This Google Sheet rule supersedes the older network-status live-check rule for staking quantity answers.
-- Do not answer from older network-status live-check snapshot values.

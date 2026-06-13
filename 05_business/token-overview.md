@@ -11,8 +11,8 @@ ORBS is the core network token of the Orbs protocol. Based on the materials gath
 
 ## Supply Guidance
 - Circulating supply and market figures are time-sensitive.
-- Do not answer current circulating-supply questions with a fixed numeric value from this document.
-- For current circulating supply, use live public market/supply references such as CoinGecko, CoinMarketCap, or the Orbs supply API listed in the source inventory.
+- Current circulating-supply questions should be answered with this user-facing wording: `현재 ORBS 유통량은 실시간으로 변동될 수 있어서, 최신 수치는 CoinGecko의 ORBS 페이지에서 확인하시면 됩니다: https://www.coingecko.com/en/coins/orbs`
+- Live public market/supply references include CoinGecko, CoinMarketCap, and the Orbs supply API listed in the source inventory.
 - The token role is best understood together with the whitepaper and PoS documentation.
 - Token distribution details should be read together with `token-distribution-notes.md` and the official distribution paper.
 

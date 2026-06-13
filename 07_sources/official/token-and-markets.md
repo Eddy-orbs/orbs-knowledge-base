@@ -11,8 +11,8 @@
 
 ## Current Supply Guidance
 - Market cap, FDV, volume, and circulating supply are time-sensitive.
-- Do not answer current supply questions from a fixed stored snapshot in this file.
-- Use live public references such as CoinGecko, CoinMarketCap, or the Orbs supply API listed above.
+- Current circulating-supply questions should be answered with this user-facing wording: `현재 ORBS 유통량은 실시간으로 변동될 수 있어서, 최신 수치는 CoinGecko의 ORBS 페이지에서 확인하시면 됩니다: https://www.coingecko.com/en/coins/orbs`
+- Live public references include CoinGecko, CoinMarketCap, and the Orbs supply API listed above.
 
 ## Token Contract References
 - ETH: 0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa

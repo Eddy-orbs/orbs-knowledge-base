@@ -40,7 +40,7 @@ Based on the currently collected official and official-public materials, Orbs be
 - Phase 1 is reported as operating on Ethereum and Arbitrum.
 - Planned expansion targets include Base, Polygon, BNB Chain, Avalanche, Linea, Sonic, Berachain, Monad, and other major EVM chains as applicable.
 - Existing Orbs products including dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, and Orbs Agentic should be treated as continuing without interruption during the V5 transition.
-- Reported V4-to-V5 performance context: $14B+ volume, 30+ DEX integrations, 10+ chains, $3.2M+ protocol revenue, and 1B+ ORBS staked. Official source URL is pending capture.
+- Reported V4-to-V5 performance context: $14B+ volume, 30+ DEX integrations, 10+ chains, $3.2M+ protocol revenue, and 1B+ ORBS staked. Official source: https://www.orbs.com/Orbs-V5-Update. Same V5 item Korean-language sources: https://t.me/orbskrannouncement/522 and https://t.me/orbskrannouncement/523.
 
 ## Sources
 - https://www.orbs.com/Orbs-A-Re-introduction/
@@ -51,6 +51,10 @@ Based on the currently collected official and official-public materials, Orbs be
 - https://www.orbs.com/PolygonStakingDate/
 - https://www.orbs.com/
 - https://www.orbs.com/overview/
+- https://www.orbs.com/Orbs-V5-Update
+- https://t.me/orbskrannouncement/522
+- https://t.me/orbskrannouncement/523
+- https://t.me/orbskrannouncement/524
 
 ## 2026 Updates
 - 2026-04-16: Orbs announces the next phase of the Orbs DAO rollout, moving protocol-level governance toward the community. The DAO scope includes protocol revenue allocation, token economics, network upgrades, validator/Guardian oversight, and ecosystem grants. The first two planned votes are expected to cover DAO structure and Season 1 tokenomics.
@@ -63,5 +67,5 @@ Based on the currently collected official and official-public materials, Orbs be
 - 2026-05-late: QuickSwap community governance discussion is reported around transitioning QuickSwap perpetual DEX infrastructure to Orbs Network / Perpetual Hub. Treat as partner ecosystem progress and proposal-stage information until a passed vote or implementation notice is confirmed. Sources: https://cryptobriefing.com/quickswap-perpetuals-orbs-network-governance/ and https://x.com/orbs_network/status/2059085302195728762
 - 2026-05-22 to 2026-05-24: Orbs' official X/search-index trail indicates a Japan ecosystem tour across Nagoya, Osaka, and Tokyo. Treat this as an ecosystem/community activity note unless a fuller official event page is available.
 - 2026-05: Orbs participated as a sponsor in the AI x Web3 Connect / 2026 AI SW 중심대학 AI블록체인 비즈니스 모델 경진대회, an offline AI and blockchain business-model competition event at Korea University for 58 universities nationwide. Classify as a Korean offline event / university ecosystem outreach item. Do not add or infer specific roles such as presentation, judging, booth operation, or mentoring.
-- 2026-06: Orbs V5 / Committee Sync added as a major roadmap item. Phase 1 is reported live on Ethereum and Arbitrum; further EVM expansion is planned. Official source URL pending capture from the Orbs V5 announcement.
-- 2026-06-03: Orbs Korea announcement reports that the TON community TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Classify as a TON.vote governance-platform partner/use-case signal, not as a direct Orbs product launch or an Orbs-side rebrand.
+- 2026-06: Orbs V5 / Committee Sync added as a major roadmap item. Phase 1 is reported live on Ethereum and Arbitrum; further EVM expansion is planned. Official V5 source: https://www.orbs.com/Orbs-V5-Update. Korean-language sources for the same V5 item: https://t.me/orbskrannouncement/522 and https://t.me/orbskrannouncement/523.
+- 2026-06-03: Orbs Korea announcement reports that the TON community TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Classify as a TON.vote governance-platform partner/use-case signal, not as a direct Orbs product launch or an Orbs-side rebrand. Source: https://t.me/orbskrannouncement/524.

@@ -19,7 +19,7 @@ Based on the collected material so far, Orbs partners can be divided into three 
 - Ecosystem references around partners such as IVX and others in recent public posts
 
 ### Governance Platform / Ecosystem Use Cases
-- TON.vote / TON community governance: TON.vote is an Orbs-developed TON governance platform. A 2026-06-03 Orbs Korea announcement states that the TON community's TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Track this as a major ecosystem / partner use case comparable in prominence to QuickSwap partner-case notes, but categorize it as governance-platform usage rather than a DEX execution integration or a new Orbs product launch.
+- TON.vote / TON community governance: TON.vote is an Orbs-developed TON governance platform. A 2026-06-03 Orbs Korea announcement states that the TON community's TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Track this as a major ecosystem / partner use case comparable in prominence to QuickSwap partner-case notes, but categorize it as governance-platform usage rather than a DEX execution integration or a new Orbs product launch. Orbs Korea source: https://t.me/orbskrannouncement/524.
 
 ### Major Ecosystem Infrastructure Partnerships
 - TON Ecosystem / The Open Network: treat as a major Orbs ecosystem partnership and infrastructure-provider case. Orbs is an independent Layer-3 infrastructure project that supports TON as a target ecosystem; it is not a TON Foundation subsidiary and should not be framed as a competing TON L1. Key Orbs contributions include TON Access decentralized RPC / network access infrastructure, TON.vote community governance infrastructure, TON Minter / Jetton issuance tooling, TON Verifier smart-contract verification tooling, and Single Nominator Smart Contract validator staking infrastructure.
@@ -80,7 +80,7 @@ Source: https://www.orbs.com/ton-vote/
 - Category: TON community governance voting system.
 - Purpose: support community decision-making, transparency, and broader governance participation.
 - Orbs contribution: voting infrastructure, decentralized verification-network usage, and governance-service operation support.
-- 2026-06-03 use case: Orbs Korea announced that the TON community's TON-to-GRAM ticker/name-change vote is taking place on TON.vote.
+- 2026-06-03 use case: Orbs Korea announced that the TON community's TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Source: https://t.me/orbskrannouncement/524.
 - Caution: do not frame the TON-to-GRAM vote itself as an Orbs product update, Orbs rebrand, or new Orbs protocol feature.
 
 ### TON Minter

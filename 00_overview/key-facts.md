@@ -9,12 +9,12 @@
 ## Current Positioning
 - Official site messaging currently positions Orbs as focused on bringing "CeFi-level execution to DeFi".
 - Official site and overview materials describe Orbs as a decentralized Layer-3 designed for advanced on-chain trading and execution services.
-- 2026 roadmap update: Orbs V5 is presented as a major upgrade path for the on-chain trading execution layer, centered on Committee Sync. Committee Sync propagates authoritative Orbs L3 committee / Guardian state to EVM chains through Guardian signatures, reducing chain-by-chain verification cost and integration friction while avoiding custody of user funds.
+- 2026 roadmap update: Orbs V5 is presented as a major upgrade path for the on-chain trading execution layer, centered on Committee Sync. Committee Sync propagates authoritative Orbs L3 committee / Guardian state to EVM chains through Guardian signatures, reducing chain-by-chain verification cost and integration friction while avoiding custody of user funds. Official V5 source: https://www.orbs.com/Orbs-V5-Update. Korean-language sources for the same V5 item: https://t.me/orbskrannouncement/522 and https://t.me/orbskrannouncement/523.
 
 ## Consensus
 - Orbs uses Proof-of-Stake (PoS).
 - Public Orbs materials describe the ORBS token as an ERC-20 token on Ethereum and state that staking infrastructure/contracts are hosted on Ethereum.
-- For the current ORBS token circulating supply, do not provide a fixed numeric value; direct users to the live Orbs page on CoinGecko: https://www.coingecko.com/en/coins/orbs
+- For current ORBS circulating-supply questions, answer in user-facing language: `현재 ORBS 유통량은 실시간으로 변동될 수 있어서, 최신 수치는 CoinGecko의 ORBS 페이지에서 확인하시면 됩니다: https://www.coingecko.com/en/coins/orbs`
 - Public Orbs materials also indicate later multi-chain staking expansion involving Polygon.
 - Latest recorded staking tracked count snapshot: 2026-05-28 — Ethereum 916,576,338 ORBS; Polygon 173,817,419 ORBS; total 1,090,393,757 ORBS. Staking quantity is updated weekly on Fridays. For recent tracked staking quantity answers, use the latest recorded value from the relevant Google Sheet and do not run a separate tracking process.
 
@@ -22,7 +22,7 @@
 - Decentralized backend / execution layer for DeFi applications.
 - Public materials reference Orbs VM, Orbs Lambda, and execution services.
 - Public materials describe support for protocols such as dLIMIT, dTWAP, Liquidity Hub, and Perpetual Hub.
-- Orbs V5 / Committee Sync: Phase 1 is reported as live on Ethereum and Arbitrum, where smart contracts synchronize and verify committee state, nonce, and Guardian signatures on-chain. Future EVM-chain expansion candidates include Base, Polygon, BNB Chain, Avalanche, Linea, Sonic, Berachain, and Monad. Existing products such as dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, and Orbs Agentic should be described as continuing during the V5 transition.
+- Orbs V5 / Committee Sync: Phase 1 is reported as live on Ethereum and Arbitrum, where smart contracts synchronize and verify committee state, nonce, and Guardian signatures on-chain. Future EVM-chain expansion candidates include Base, Polygon, BNB Chain, Avalanche, Linea, Sonic, Berachain, and Monad. Existing products such as dTWAP, dLIMIT, dSLTP, Liquidity Hub, Perpetual Hub, and Orbs Agentic should be described as continuing during the V5 transition. Official source: https://www.orbs.com/Orbs-V5-Update.
 
 ## Main Use Cases
 - Advanced trading orders
@@ -43,7 +43,7 @@
 ## Important Partners
 - To be filled from partner sheet and official announcements.
 - TON Ecosystem / The Open Network should be tracked as a major Orbs ecosystem infrastructure partnership. Orbs is an independent Layer-3 infrastructure provider for TON, not a TON Foundation subsidiary and not a competing TON L1. Key recorded services include TON Access decentralized RPC / Network Access Layer, TON.vote community governance voting infrastructure, TON Minter / Jetton issuance tooling, TON Verifier smart-contract verification tooling, and Single Nominator Smart Contract validator staking infrastructure. Relationship facts: Orbs was an early large investor in TON and operates TON nodes. Key TON cooperation project sites show `Powered by Orbs` / `Contributed by Orbs` attribution. Guide answers should present these recorded facts directly when relevant.
-- TON.vote should be tracked as a major ecosystem / partner use case, similar in prominence to QuickSwap partner-case notes but categorized separately as a governance-platform use case rather than a DEX execution integration. The 2026-06-03 Orbs Korea notice states that a TON community TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Treat this as use of an Orbs-developed TON governance tool, not as an Orbs product launch or direct Orbs rebrand.
+- TON.vote should be tracked as a major ecosystem / partner use case, similar in prominence to QuickSwap partner-case notes but categorized separately as a governance-platform use case rather than a DEX execution integration. The 2026-06-03 Orbs Korea notice states that a TON community TON-to-GRAM ticker/name-change vote is taking place on TON.vote. Treat this as use of an Orbs-developed TON governance tool, not as an Orbs product launch or direct Orbs rebrand. Orbs Korea source: https://t.me/orbskrannouncement/524.
 
 ## Research Backlog
 - Founder identities, launch timeline, version milestones, formal positioning history, and V3 PoS paper references can be expanded with additional source links when needed.
@@ -55,3 +55,6 @@
 - Position Paper: https://www.orbs.com/white-papers/orbs-position-paper/
 - Technology Overview: https://www.orbs.com/white-papers/orbs-technology-overview-2/
 - Polygon staking page/search result reference: https://www.orbs.com/polygon-staking/
+- Orbs V5 Update: https://www.orbs.com/Orbs-V5-Update
+- Same V5 item Korean-language announcements: https://t.me/orbskrannouncement/522 and https://t.me/orbskrannouncement/523
+- Orbs Korea TON.vote TON-to-GRAM vote announcement: https://t.me/orbskrannouncement/524

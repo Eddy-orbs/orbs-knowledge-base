@@ -21,6 +21,17 @@
 ## Orbs Agentic
 - Described as an execution layer for autonomous DeFi agents.
 
+## Orbs Institutional
+- Announced on 2026-06-11 as an institutional execution stack for direct access to Orbs' on-chain execution infrastructure.
+- Target users include professional trading teams, OTC desks, treasuries, custodians, wallet providers, institutional platforms, exchanges, MPC providers, and prime brokers.
+- Included products: Liquidity Hub, dTWAP, dLIMIT, and dSLTP.
+- The institutional stack extends Orbs from DEX-integrated execution infrastructure toward direct institutional access to the same execution layer.
+- Liquidity Hub connects DEX liquidity with professional market makers through a private RFQ layer.
+- The stack is positioned around improved execution quality and reduced MEV / mempool exposure risk.
+- User or institutional assets remain in the user's / institution's own wallet, and the stack can work with EIP-712-compatible signing infrastructure.
+- Orbs Institutional provides direct API access and white-label / co-branded integration paths for wallets, custodians, exchanges, MPC providers, and prime brokers.
+- Reported scale signal: since 2023, Orbs execution infrastructure has processed more than USD 2.5B in spot trading volume across 10+ chains and 30+ trading platforms.
+
 ## Execution Services
 - Orbs VM and Orbs Lambda are described as decentralized execution services, often compared conceptually to EC2 and Lambda respectively, but decentralized.
 
